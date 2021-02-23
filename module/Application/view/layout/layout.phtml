@@ -1,0 +1,50 @@
+<!doctype html>
+<html>
+<head>
+	<base href="/" />
+	<?php echo $this->headMeta(); ?>
+	<?php echo $this->headTitle() ?>
+ 	<?php echo $this->headLink(); ?>
+	<?php echo $this->headScript(); ?>
+	<link rel="shortcut icon" href="/favicon.png" type="image/x-icon">
+    <?php /*?>
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+    
+      ga('create', 'UA-43094699-1', 'i9abc.com.br');
+      ga('send', 'pageview');
+     </script>
+     */ ?>
+</head>
+
+    <body >
+
+        <?php // messages ?>
+        <script>
+            $(function(){
+                $("#message").delay("6000").fadeOut();
+                $("#message").click( function(){ $("#message").stop().fadeOut(); });
+            });
+        </script>
+
+        <!-- MESSAGES -->
+        <?php echo $this->message(); ?>
+        <?php if( isset($this->layout()->message) && is_array($this->layout()->message) ): ?>
+        <div class="<?php echo key($this->layout()->message); ?>" id="message">
+            <a href="javascript:;" class="fa fa-times close" onclick="$('#message').slideUp('slow');"></a>
+            <?php echo current(utf8_decode($this->layout()->message)); ?>
+        </div>
+        <?php endif; ?>
+        <section>
+
+            <?php echo $this->content;?>
+        </section>
+
+        <footer>
+        </footer>
+    </body>
+</html>
+	

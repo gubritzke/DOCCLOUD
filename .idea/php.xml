@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/tropaframework/Head" />
+      <path value="$PROJECT_DIR$/vendor/tropaframework/Email" />
+      <path value="$PROJECT_DIR$/vendor/tropaframework/Ftp" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/tropaframework/Log" />
+      <path value="$PROJECT_DIR$/vendor/tropaframework/Shipment" />
+      <path value="$PROJECT_DIR$/vendor/tropaframework/Upload" />
+      <path value="$PROJECT_DIR$/vendor/tropaframework/Image" />
+      <path value="$PROJECT_DIR$/vendor/tropaframework/Security" />
+      <path value="$PROJECT_DIR$/vendor/tropaframework/Helper" />
+      <path value="$PROJECT_DIR$/vendor/tropaframework/Payment" />
+      <path value="$PROJECT_DIR$/vendor/tropaframework/Database" />
+      <path value="$PROJECT_DIR$/vendor/tropaframework/Sms" />
+      <path value="$PROJECT_DIR$/vendor/zendframework/zendframework" />
+      <path value="$PROJECT_DIR$/vendor/tropaframework/Api" />
+      <path value="$PROJECT_DIR$/vendor/tropaframework/Facebook" />
+      <path value="$PROJECT_DIR$/vendor/tropaframework/Session" />
+      <path value="$PROJECT_DIR$/vendor/tropaframework/Google" />
+      <path value="$PROJECT_DIR$/vendor/tropaframework/Css" />
+    </include_path>
+  </component>
+  <component name="PhpProjectSharedConfiguration" php_language_level="5.3.0" />
+</project>

@@ -1,0 +1,117 @@
+
+		 <div class="content">
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="col-md-12">
+                        <ul class="nav nav-icons" role="tablist">
+                            <li class="active">
+                                <a target="_blank"  href="/<?php echo $this->layout()->routes['module'];?>/<?php echo $this->layout()->routes['controller'];?>/excel" role="tab">
+                                    <i class="fas fa-file-excel"></i><br>
+                                    Exportar Excel
+                                </a>
+                            </li>
+                            <li class="active">
+                                <a  href="javascript:;" onclick="$('.tab-pane').slideToggle('active');" role="tab">
+                                    <i class="fa fa-filter"></i><br>
+                                    Filtrar
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="tab-content">
+                    <div class="tab-pane <?php if(!empty($this->get)){ echo 'active';} ?>" id="description-logo">
+                        <div class="card">
+                            <div class="header">
+                                <h4 class="title">Filtrar</h4>
+                            </div>
+                            <form method="get" action="/<?php echo $this->layout()->routes['module'];?>/<?php echo $this->layout()->routes['controller'];?>/<?php echo $this->layout()->routes['action'];?>">
+                                <div class="content">
+                                    <div class="row">
+                                        <div class="col-md-3">
+                                            <div class="form-group">
+                                                <label>De</label>
+                                                <input type="text" name="de" placeholder="" class="form-control datepicker" value="<?php if(!empty($this->get['de'])){ echo $this->get['de']; }?>" />
+                                            </div>
+                                        </div>
+                                        <div class="col-md-3">
+                                            <div class="form-group">
+                                                <label>Até</label>
+                                                <input type="text" name="ate" placeholder="" class="form-control datepicker" value="<?php if(!empty($this->get['ate'])){ echo $this->get['ate']; }?>" />
+                                            </div>
+                                        </div>
+
+                                        <div class="col-md-1">
+                                            <div class="form-group">
+                                                <label>Filtrar</label>
+                                                <button type="submit" class="btn btn-fill btn-info form-control">Filtrar</button>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-1">
+                                            <div class="form-group">
+                                                <label>Limpar Filtros</label>
+                                                <a href="/<?php echo $this->layout()->routes['module']; ?>/<?php echo $this->layout()->routes['controller']; ?>">
+                                                    <button type="button" class="btn btn-fill btn-info form-control">Limpar</button>
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="card">
+
+                            <div class="toolbar">
+                                <!--        Here you can write extra buttons/actions for the toolbar              -->
+                            </div>
+                            <div class="bootstrap-table">
+								<div class="fixed-table-body">
+		                            <table id="bootstrap-table" class=" table table-hover">
+		                                <thead>
+		                                    <th>Email</th>
+                                            <th>Data</th>
+		                                	<th>Excluir</th>
+		                                </thead>
+		                                <tbody>
+		                                	<?php foreach ($this->result as $row):?>
+		                                    <tr>
+												<td><?php echo $row['email'];?></td>
+												<td>
+													<?php if(!empty($row['criado'])):?>
+														<?php echo date(' H:i d/m/Y',strtotime($row['criado']));?>
+													<?php endif;?>
+												</td>
+												<td>
+													<a href="/<?php echo $this->layout()->routes['module']?>/<?php echo $this->layout()->routes['controller']?>/delete/<?php echo $row['id_newsletter'];?>">
+														<button class="btn btn-wd btn-danger" type="button">
+							                                <span class="btn-label">
+							                                    <i class="fa fa-times"></i>
+							                                </span>
+							                                Excluir
+							                            </button>
+						                            </a>
+												</td>
+		                                    </tr>
+		                                    <?php endforeach;?>
+		                                </tbody>
+		                            </table>
+		                        </div>
+	                        </div>
+                            <?php
+							$url = $this->layout()->routes['module']."/".$this->layout()->routes['controller'];
+							echo $this->paginationControl($this->result, 'sliding', 'partials/paginator_painel.phtml', ['url' => $url]);
+							?>
+                        </div><!--  end card  -->
+                    </div> <!-- end col-md-12 -->
+                </div> <!-- end row -->
+
+            </div>
+        </div>
+        
+    <script>  
+
+    </script>

@@ -1,0 +1,55 @@
+<div class="content">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="card">
+                   <?php if(empty($this->id)):?>
+                        <div class="header">Novo</div>
+                    <?php else:?>
+                        <div class="header">Editar</div>
+                    <?php endif; ?>
+                   <div class="content">
+                        <form method="post" enctype="multipart/form-data" action="/<?php echo $this->layout()->routes['module'];?>/<?php echo $this->layout()->routes['controller'];?>/save">
+                           <input type="hidden" name="id_equipamento" value="<?php echo $this->post->id_equipamento;?>" />
+                           <div class="row">
+                               <div class="col-md-12">
+                                   <div class="form-group">
+                                       <label>ORDEM</label>
+                                       <input type="text " class="form-control inteiro" name="ordem" value="<?php echo $this->post->ordem; ?>" />
+                                   </div>
+                                   <div class="form-group">
+                                       <label>STATUS</label>
+                                       <select name="status" class="form-control">
+                                           <option <?php if($this->post->status == 'ativo'){ echo 'selected="selected"';} ?> value="ativo">ATIVO</option>
+                                           <option <?php if($this->post->status == 'inativo'){ echo 'selected="selected"';} ?> value="inativo">INATIVO</option>
+                                       </select>
+                                   </div>
+                                   <div class="form-group">
+                                       <label>NOME</label>
+                                       <input type="text" name="nome" required="required"  class="form-control " value="<?php echo $this->post->nome;?>" />
+                                   </div>
+                                   <div class="form-group">
+                                       <label>CODIGO</label>
+                                       <input type="text" name="codigo" required="required"  class="form-control " value="<?php echo $this->post->codigo;?>" />
+                                   </div>
+                                   <div class="form-group">
+                                       <label>IMAGEM</label>
+                                       <input type="file" name="imagem" class="form-control " value="" />
+                                   </div>
+                                   <?php if(!empty($this->post->imagem)):?>
+                                   <div class="form-group">
+                                       <label>IMAGEM ATUAL</label>
+                                       <img width="100" src="/assets/uploads/equipamentos/<?php echo $this->post->imagem;?>" alt=""/>
+                                   </div>
+                                   <?php endif;?>
+                                  <button type="submit" class="btn btn-fill btn-info">Salvar</button>
+                                </div>
+                            </div>
+                        </form>
+                   </div>
+               </div>
+            </div>
+        </div>
+    </div>
+</div>
+

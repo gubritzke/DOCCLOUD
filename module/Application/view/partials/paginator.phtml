@@ -1,0 +1,31 @@
+<?php
+$q = \Naicheframework\Security\Security::antiInjection($_GET);
+unset($q['page']);
+$q = http_build_query($q);
+$q = !empty($q) ? '&' . $q : null;
+$anchor = "#parte3";
+?>
+
+<?php if( $this->pageCount>1 ): ?>
+<span>PÁGINA</span>
+
+	<ul class="pagination">
+	<!-- PAGINATION -->
+    <?php foreach ($this->pagesInRange as $page): ?>
+        <?php if ($page != $this->current): ?>
+            <li class="page-number"><a href="/<?php echo $this->url; ?>?page=<?php echo $page . $q . $anchor; ?>">
+				<?php echo $page; ?>
+            </a>
+            </li>
+        <?php else: ?>
+        	<li class="page-pre active">
+           		<a href="javascript:;" style="color:#ff8a12 !important;"><?php echo $page; ?></a>
+           	</li>
+        <?php endif; ?>
+    <?php endforeach; ?>
+	</ul>
+	
+	<?php if( $this->current < $page ): ?>
+	<a class="btn-avancar" href="/<?php echo $this->url; ?>?page=<?php echo $this->current + 1 . $anchor; ?>">PRÓXIMA</a>
+	<?php endif; ?>	
+<?php endif;?>

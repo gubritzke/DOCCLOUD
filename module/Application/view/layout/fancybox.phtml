@@ -1,0 +1,97 @@
+<?php echo $this->doctype(); ?>
+
+<html lang="pt-br">
+<head>
+	<base href="/" />
+	<meta charset="utf-8" />
+    <meta name="viewport" content="width=640px, user-scalable=no" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+    <meta name="mobile-web-app-capable" content="yes" />
+    <meta name="mobile-web-app-status-bar-style" content="black-translucent" />
+	
+	<?php
+    	$css = $this->headLink();
+    	$js = $this->headScript();
+    	
+    	//CSS DEFAULT
+    	$css->appendStylesheet('https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css');
+    	$css->appendStylesheet('./assets/css/minify/normalize.css');
+    	
+        //CSS
+        $css->appendStylesheet('./assets/css/minify/main.css', '');
+        $css->appendStylesheet('./assets/css/minify/main-responsive.css', '');
+        $css->appendStylesheet('./assets/css/minify/outbox.css', '');
+        
+        //CSS VIEW
+        $filename = './assets/css/minify/' . strtolower($this->layout()->routes['controller']) . '.css';
+        if( \Naicheframework\Css\Minify::checkExists($filename) ) $css->appendStylesheet($filename, '');
+        
+        $filename = './assets/css/minify/' . strtolower($this->layout()->routes['controller']) . '-responsive.css';
+        if( \Naicheframework\Css\Minify::checkExists($filename) ) $css->appendStylesheet($filename, '');
+        
+        $filename = './assets/css/minify/' . strtolower($this->layout()->routes['controller']) . '-' . strtolower($this->layout()->routes['action']) . '.css';
+        if( \Naicheframework\Css\Minify::checkExists($filename) ) $css->appendStylesheet($filename, '');
+        
+        //LOAD JQUERY
+        $js->prependFile('./assets/js/jquery.min.js', 'text/javascript');
+        
+        //LOAD CAROUSEL
+        $js->appendFile('./assets/js/extensions/jquery.owl.carousel/owl.carousel.min.js', 'text/javascript');
+        $js->appendFile('./assets/js/carousel.js', 'text/javascript');
+        $css->appendStylesheet('./assets/js/extensions/jquery.owl.carousel/owl.carousel.css');
+        
+        //LOAD SCROLL
+        $js->appendFile('./assets/js/extensions/jquery.perfect.scrollbar/js/perfect-scrollbar.jquery.min.js', 'text/javascript');
+        $css->appendStylesheet('./assets/js/extensions/jquery.perfect.scrollbar/css/perfect-scrollbar.css');
+        
+        //LOAD FORM
+        $js->appendFile('./assets/js/extensions/jquery.validation/jquery.validate.min.js', 'text/javascript');
+        $js->appendFile('./assets/js/extensions/jquery.validation/additional-methods.min.js', 'text/javascript');
+        $js->appendFile('./assets/js/extensions/jquery.validation/localization/messages_pt_BR.js', 'text/javascript');
+        $js->appendFile('./assets/js/extensions/jquery.maskedinput.js', 'text/javascript');
+        $js->appendFile('./assets/js/form.js', 'text/javascript');
+		
+        //LOAD FANCYBOX
+        $js->appendFile('./assets/js/extensions/jquery.fancybox/jquery.fancybox.pack.js', 'text/javascript');
+        $css->appendStylesheet('./assets/js/extensions/jquery.fancybox/jquery.fancybox.css','');
+        
+        //JS VIEW
+        $js->appendFile('./assets/js/main.js', 'text/javascript');
+        
+        $filename = './assets/js/view/' . strtolower($this->layout()->routes['controller']) . '.js';
+        if( strlen(@file_get_contents(str_replace('./', $_SERVER['DOCUMENT_ROOT'] . '/', $filename))) ) $js->appendFile($filename);
+        
+        $filename = './assets/js/view/' . strtolower($this->layout()->routes['controller']) . '-' . strtolower($this->layout()->routes['action']) . '.js';
+        if( strlen(@file_get_contents(str_replace('./', $_SERVER['DOCUMENT_ROOT'] . '/', $filename))) ) $js->appendFile($filename);
+        
+     	//CSS minify
+     	$css_array = array_column($css->getContainer()->getArrayCopy(), 'href');
+    	$css_replace = $this->config_host['env']=='local' ? true : false;
+    	$minify = new \Naicheframework\Css\Minify();
+    	$minify->generate($css_array, $css_replace);
+    ?>
+    
+    <?php echo $this->headLink(); ?>
+	<?php echo $this->headScript(); ?>
+    <?php echo $this->headTitle('Vogel')->setSeparator(' - ')->setAutoEscape(true); ?>
+</head>
+
+<body>
+	<div id="main" class="scroll">
+	
+		<!-- MESSAGES -->
+		<?php echo $this->message(); ?>
+		<?php if( isset($this->layout()->message) && is_array($this->layout()->message) ): ?>
+		<div class="<?php echo key($this->layout()->message); ?>" id="message">
+			<a href="javascript:;" class="fa fa-times close" onclick="$('#message').slideUp('slow');"></a>
+			<?php echo current($this->layout()->message); ?>
+		</div>
+		<?php endif; ?>
+		
+		<!-- CONTENT -->
+    	<?php echo $this->content; ?>
+    	
+    </div> <!-- END MAIN -->
+</body>
+</html>

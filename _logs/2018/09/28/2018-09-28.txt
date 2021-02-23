@@ -1,0 +1,2 @@
+{"module":"application","controller":"sobre-nos","action":"index","get":[],"post":[],"type":"DEBUG","message":"acesso","page":"\/sobre-nos","date":"2018-09-28 10:49:30","ip":"10.0.0.200"}
+{"type":"ERROR","message":"retorno da fun\u00e7\u00e3o error_get_last()","file":"\/var\/www\/mount\/I9\/vendor\/tropaframework\/Log\/Log.php","line":55,"page":"\/sobre-nos","date":"2018-09-28 10:49:30","ip":"10.0.0.200"}

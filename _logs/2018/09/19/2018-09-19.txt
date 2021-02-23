@@ -1,0 +1,16 @@
+{"module":"application","controller":"index","action":"index","get":[],"post":[],"type":"DEBUG","message":"acesso","page":"\/","date":"2018-09-19 08:53:14","ip":"10.0.1.212"}
+{"type":"ERROR","message":"retorno da fun\u00e7\u00e3o error_get_last()","file":"\/var\/www\/mount\/I9\/vendor\/tropaframework\/Log\/Log.php","line":55,"page":"\/","date":"2018-09-19 08:53:14","ip":"10.0.1.212"}
+{"module":"application","controller":"index","action":"index","get":[],"post":[],"type":"DEBUG","message":"acesso","page":"\/","date":"2018-09-19 08:53:27","ip":"10.0.1.212"}
+{"type":"ERROR","message":"retorno da fun\u00e7\u00e3o error_get_last()","file":"\/var\/www\/mount\/I9\/vendor\/tropaframework\/Log\/Log.php","line":55,"page":"\/","date":"2018-09-19 08:53:27","ip":"10.0.1.212"}
+{"module":"application","controller":"contato","action":"index","get":[],"post":[],"type":"DEBUG","message":"acesso","page":"\/contato","date":"2018-09-19 08:53:52","ip":"10.0.1.212"}
+{"type":"ERROR","message":"retorno da fun\u00e7\u00e3o error_get_last()","file":"\/var\/www\/mount\/I9\/vendor\/tropaframework\/Log\/Log.php","line":55,"page":"\/contato","date":"2018-09-19 08:53:52","ip":"10.0.1.212"}
+{"module":"application","controller":"index","action":"index","get":[],"post":[],"type":"DEBUG","message":"acesso","page":"\/","date":"2018-09-19 08:55:02","ip":"10.0.1.212"}
+{"type":"ERROR","message":"retorno da fun\u00e7\u00e3o error_get_last()","file":"\/var\/www\/mount\/I9\/vendor\/tropaframework\/Log\/Log.php","line":55,"page":"\/","date":"2018-09-19 08:55:02","ip":"10.0.1.212"}
+{"module":"application","controller":"imoveis","action":"detalhe","get":[],"post":[],"type":"DEBUG","message":"acesso","page":"\/imovel\/-i9-sto-egidio-santana","date":"2018-09-19 09:29:21","ip":"10.0.1.212"}
+{"type":"ERROR","message":"retorno da fun\u00e7\u00e3o error_get_last()","file":"\/var\/www\/mount\/I9\/vendor\/tropaframework\/Log\/Log.php","line":55,"page":"\/imovel\/-i9-sto-egidio-santana","date":"2018-09-19 09:29:21","ip":"10.0.1.212"}
+{"module":"application","controller":"index","action":"index","get":[],"post":[],"type":"DEBUG","message":"acesso","page":"\/","date":"2018-09-19 23:12:09","ip":"10.0.0.200"}
+{"type":"ERROR","message":"retorno da fun\u00e7\u00e3o error_get_last()","file":"\/var\/www\/mount\/I9\/vendor\/tropaframework\/Log\/Log.php","line":55,"page":"\/","date":"2018-09-19 23:12:09","ip":"10.0.0.200"}
+{"module":"application","controller":"index","action":"index","get":[],"post":[],"type":"DEBUG","message":"acesso","page":"\/","date":"2018-09-19 23:12:10","ip":"10.0.0.200"}
+{"type":"ERROR","message":"retorno da fun\u00e7\u00e3o error_get_last()","file":"\/var\/www\/mount\/I9\/vendor\/tropaframework\/Log\/Log.php","line":55,"page":"\/","date":"2018-09-19 23:12:10","ip":"10.0.0.200"}
+{"module":"application","controller":"imoveis","action":"detalhe","get":[],"post":[],"type":"DEBUG","message":"acesso","page":"\/imovel\/-i9-sto-egidio-santana","date":"2018-09-19 23:12:37","ip":"10.0.0.200"}
+{"type":"ERROR","message":"retorno da fun\u00e7\u00e3o error_get_last()","file":"\/var\/www\/mount\/I9\/vendor\/tropaframework\/Log\/Log.php","line":55,"page":"\/imovel\/-i9-sto-egidio-santana","date":"2018-09-19 23:12:37","ip":"10.0.0.200"}

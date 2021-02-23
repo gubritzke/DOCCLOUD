@@ -1,0 +1,8 @@
+{"module":"application","controller":"seja-corretor","action":"index","get":[],"post":[],"type":"DEBUG","message":"acesso","page":"\/seja-corretor","date":"2018-08-22 10:57:43","ip":"10.0.1.212"}
+{"type":"ERROR","message":"retorno da fun\u00e7\u00e3o error_get_last()","file":"\/var\/www\/mount\/I9\/vendor\/tropaframework\/Log\/Log.php","line":55,"page":"\/seja-corretor","date":"2018-08-22 10:57:43","ip":"10.0.1.212"}
+{"module":"application","controller":"seja-corretor","action":"index","get":[],"post":[],"type":"DEBUG","message":"acesso","page":"\/seja-corretor","date":"2018-08-22 11:06:03","ip":"10.0.1.212"}
+{"type":"ERROR","message":"retorno da fun\u00e7\u00e3o error_get_last()","file":"\/var\/www\/mount\/I9\/vendor\/tropaframework\/Log\/Log.php","line":55,"page":"\/seja-corretor","date":"2018-08-22 11:06:03","ip":"10.0.1.212"}
+{"module":"application","controller":"seja-corretor","action":"index","get":[],"post":[],"type":"DEBUG","message":"acesso","page":"\/seja-corretor","date":"2018-08-22 11:06:17","ip":"10.0.1.212"}
+{"type":"ERROR","message":"retorno da fun\u00e7\u00e3o error_get_last()","file":"\/var\/www\/mount\/I9\/vendor\/tropaframework\/Log\/Log.php","line":55,"page":"\/seja-corretor","date":"2018-08-22 11:06:17","ip":"10.0.1.212"}
+{"module":"application","controller":"seja-corretor","action":"index","get":[],"post":[],"type":"DEBUG","message":"acesso","page":"\/seja-corretor","date":"2018-08-22 11:08:28","ip":"10.0.1.212"}
+{"type":"ERROR","message":"retorno da fun\u00e7\u00e3o error_get_last()","file":"\/var\/www\/mount\/I9\/vendor\/tropaframework\/Log\/Log.php","line":55,"page":"\/seja-corretor","date":"2018-08-22 11:08:28","ip":"10.0.1.212"}

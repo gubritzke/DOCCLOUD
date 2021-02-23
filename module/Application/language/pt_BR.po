@@ -1,0 +1,1766 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ZendSkeletonApplication\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-10-26 14:32-0200\n"
+"PO-Revision-Date: 2017-12-06 18:22-0200\n"
+"Last-Translator: Diogo Melo <dmelo87@gmail.com>\n"
+"Language-Team: ZF Contibutors <zf-devteam@zend.com>\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: translate\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 2.0.4\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../view/application/acessorios/index.phtml:5
+msgid "acessorios-tit"
+msgstr "SUBESTAÇÕES MÓVEIS E TRANSFORMADORES"
+
+#: ../view/application/acessorios/index.phtml:7
+#: ../view/application/locacao/index.phtml:60
+msgid "acessorios-sub"
+msgstr ""
+" \n"
+"Eficiência para soluções completas em energia temporária"
+
+#: ../view/application/acessorios/index.phtml:16
+msgid "atalhos-home"
+msgstr "Home"
+
+#: ../view/application/acessorios/index.phtml:17
+msgid "atalhos-acessorios"
+msgstr "Acessórios para locação"
+
+#: ../view/application/acessorios/index.phtml:25
+msgid "acessorios-desc"
+msgstr ""
+"Para alcançar a máxima eficiência de seus equipamentos e desempenho de seus "
+"projetos de geração de energia, a Tecnogera oferece uma ampla linha de "
+"acessórios.\n"
+"Além de cabos elétricos e tanques de combustíveis, a linha de acessórios "
+"Tecnogera também disponibiliza: quadro de transferência automático (QTA), "
+"quadro de transferência em rampa (QTR), analisadores de energia, entre "
+"outros."
+
+#: ../view/application/acessorios/index.phtml:65
+#: ../view/application/contato/index.phtml:68
+msgid "contato_solicite_orcamento_botao"
+msgstr "Solicitar orçamento"
+
+#: ../view/application/blog/index.phtml:14
+msgid "blog_titulo_interna"
+msgstr "BLOG"
+
+#: ../view/application/blog/index.phtml:16
+msgid "blog_subtitulo_interna"
+msgstr ""
+"Fique por dentro das principais notícias e novidades do universo Tecnogera!"
+
+#: ../view/application/carreira/index.phtml:14
+msgid "carreira_titulo"
+msgstr "Carreira"
+
+#: ../view/application/carreira/index.phtml:16
+msgid "carreira_texto"
+msgstr ""
+"Nosso time trabalha com compromisso e senso de urgência para a entrega e "
+"superação dos resultados esperados. Valorizamos o desenvolvimento da nossa "
+"equipe, atuando em conjunto e reconhecendo os valores individuais. Confira "
+"as vagas disponíveis e venha fazer parte da equipe Tecnogera!"
+
+#: ../view/application/carreira/index.phtml:46
+msgid "descricao_beneficios"
+msgstr "Beneficios: "
+
+#: ../view/application/carreira/index.phtml:51
+msgid "descricao_local"
+msgstr "Local: "
+
+#: ../view/application/carreira/index.phtml:56
+msgid "descricao_da_vaga"
+msgstr "Descrição da vaga: "
+
+#: ../view/application/cases/index.phtml:26
+msgid "cases_titulo"
+msgstr "CASES TECNOGERA"
+
+#: ../view/application/cases/index.phtml:29
+msgid "cases_paragrafo"
+msgstr ""
+"Atendemos ás necessidades de diversos segmentos de mercado, através das "
+"nossas soluções de locação de geradores, de climatização e resfriamento ou "
+"em projetos de geração de energia, conheça nossos projetos: "
+
+#: ../view/application/codigo-de-etica/index.phtml:14
+#: ../view/application/etica-e-conduta/index.phtml:14
+msgid "codigo_etica_titulo"
+msgstr "ÉTICA E CONDUTA"
+
+#: ../view/application/codigo-de-etica/index.phtml:16
+#: ../view/application/etica-e-conduta/index.phtml:16
+msgid "codigo_etica"
+msgstr ""
+"Honestidade e integridade são fundamentais para a reputação da Tecnogera "
+"tanto na condução comercial quanto com nossos clientes, fornecedores e "
+"parceiros. Para nós, um comportamento ético apropriado deve ser aplicável "
+"por todos os colaboradores, estabelecendo uma expectativa clara dos padrões "
+"éticos e consistentes que devemos seguir. \n"
+"<br />\n"
+"<br />\n"
+"Disponibilizamos neste link nosso Código de Conduta, documento que orienta "
+"nossa postura em todas as nossas relações comerciais. Clique abaixo e acesse "
+"o documento completo."
+
+#: ../view/application/contato/index.phtml:13
+msgid "contato_tit"
+msgstr "CONTATO"
+
+#: ../view/application/contato/index.phtml:15
+msgid "contato_sub"
+msgstr ""
+"Tem alguma dúvida ou quer falar com a Tecnogera? Preencha o formulário "
+"abaixo e envie a sua mensagem. Retornaremos o mais rápido possível!"
+
+#: ../view/application/contato/index.phtml:23
+msgid "contato_form_1"
+msgstr "Nome*"
+
+#: ../view/application/contato/index.phtml:27
+msgid "contato_form_2"
+msgstr "E-mail*"
+
+#: ../view/application/contato/index.phtml:31
+msgid "contato_form_3"
+msgstr "Empresa"
+
+#: ../view/application/contato/index.phtml:35
+msgid "contato_form_4"
+msgstr "Telefone*"
+
+#: ../view/application/contato/index.phtml:39
+msgid "contato_form_5"
+msgstr "Departamento"
+
+#: ../view/application/contato/index.phtml:48
+msgid "contato_form_6"
+msgstr "Mensagem*"
+
+#: ../view/application/contato/index.phtml:53
+msgid "enviar"
+msgstr "ENVIAR"
+
+#: ../view/application/contato/index.phtml:60
+#: ../view/application/locacao/detalhe.phtml:954
+#: ../view/application/locacao/detalhe.phtml:956
+#: ../view/application/locacao/detalhe.phtml:958
+#: ../view/application/locacao/index.phtml:195
+msgid "contato_solicite_orcamento"
+msgstr "SOLICITE UM ORÇAMENTO"
+
+#: ../view/application/contato/index.phtml:63
+msgid "contato_solicite_orcamento_texto"
+msgstr ""
+"Os orçamentos podem ser solicitados por telefone, e-mail, site ou visita."
+
+#: ../view/application/contato/index.phtml:66
+msgid "contato_solicite_orcamento_texto1"
+msgstr "0800 772 1601 | locacao@tecnogera.com.br | "
+
+#: ../view/application/contato/index.phtml:74
+msgid "contato_trabalhe_conosco_titulo"
+msgstr "TRABALHE CONOSCO"
+
+#: ../view/application/contato/index.phtml:77
+msgid "contato_trabalhe_conosco_texto"
+msgstr "Venha fazer parte da nossa equipe! "
+
+#: ../view/application/contato/index.phtml:78
+msgid "contato_trabalhe_conosco_botao"
+msgstr "Enviar Currículo"
+
+#: ../view/application/contato/index.phtml:84
+msgid "contato_newslatter_texto"
+msgstr "Quer receber novidades e promoções da Tecnogera, cadastre-se!"
+
+#: ../view/application/contato/index.phtml:87
+msgid "contato_newslatter_placeholder"
+msgstr "Insira seu e-mail"
+
+#: ../view/application/contato/index.phtml:102
+msgid "contato_nossas_unidades"
+msgstr "NOSSAS UNIDADES"
+
+#: ../view/application/etica-e-conduta/index.phtml:19
+msgid "etica_conduta_botao_codigo_de_conduta"
+msgstr "CÓDIGO DE CONDUTA"
+
+#: ../view/application/etica-e-conduta/index.phtml:29
+msgid "etica_conduta_canal_confidencial"
+msgstr "CANAL CONFIDENCIAL"
+
+#: ../view/application/etica-e-conduta/index.phtml:32
+msgid "etica_conduta_o_que_e"
+msgstr "O que é ?"
+
+#: ../view/application/etica-e-conduta/index.phtml:35
+msgid "etica_conduta_canal_confidencial_tecnogera"
+msgstr ""
+"O <b>Canal Confidencial Tecnogera</b> é o meio pelo qual podem ser "
+"comunicadas eventuais violações ao Código de Ética e Conduta Tecnogera, às "
+"normas internas e à legislação vigente, apresentadas denúncias de fatos que "
+"provoquem  danos à imagem ou operação da Tecnogera. As comunicações são "
+"analisadas pelo Comitê de Compliance, responsável por acompanhar o "
+"cumprimento das normas e coordenar as investigações de denúncias. "
+
+#: ../view/application/etica-e-conduta/index.phtml:38
+msgid "etica_conduta_qual_sua_importancia"
+msgstr "Qual sua importância? "
+
+#: ../view/application/etica-e-conduta/index.phtml:41
+msgid "etica_conduta_ferramenta"
+msgstr ""
+"É uma ferramenta de fundamental importância para manutenção da integridade "
+"da empresa, pois os relato aqui comunicados serão avaliados e tratados da "
+"forma mais adequada.\n"
+"\t\t\t\t\t<br />\n"
+"\t\t\t\t\t<br />\n"
+"\t\t\t\t\tAo relatar uma denúncia, procure descrever ao máximo possível a "
+"situação (exemplo: o quê, quando, quem, como, quanto, onde e por quê?), "
+"incluindo evidências formais (é possível anexar arquivos) e nome de "
+"testemunhas que presenciaram os fatos. Relatos vagos, não específicos ou sem "
+"comprovação do ocorrido podem dificultar ou inviabilizar a apuração."
+
+#: ../view/application/etica-e-conduta/index.phtml:44
+msgid "etica_conduta_voce_nao_tem"
+msgstr ""
+"Você não tem uma denúncia, mas gostaria de entrar em contato com a Tecnogera?"
+
+#: ../view/application/etica-e-conduta/index.phtml:47
+msgid "etica_conduta_clique_aqui"
+msgstr "Clique aqui"
+
+#: ../view/application/etica-e-conduta/index.phtml:47
+msgid "etica_conduta_e_fale_conosco"
+msgstr " e fale conosco!"
+
+#: ../view/application/etica-e-conduta/index.phtml:59
+msgid "etica_conduta_titulo_formulario"
+msgstr ""
+"Registre abaixo seu relato para que nossa equipe possa tomar as devidas "
+"ações. Nosso objetivo com esse canal é adequar nossa conduta e melhorar "
+"nosso atendimento. Fique tranquilo que as informações serão tratadas de "
+"forma confidencial. Campos de identificação são opcionais."
+
+#: ../view/application/etica-e-conduta/index.phtml:96
+msgid "etica_conduta_formulario_nome"
+msgstr "Nome"
+
+#: ../view/application/etica-e-conduta/index.phtml:100
+msgid "etica_conduta_formulario_email"
+msgstr "E-mail"
+
+#: ../view/application/etica-e-conduta/index.phtml:104
+msgid "etica_conduta_formulario_empresa"
+msgstr "Empresa"
+
+#: ../view/application/etica-e-conduta/index.phtml:109
+msgid "etica_conduta_formulario_telefone"
+msgstr "Telefone"
+
+#: ../view/application/etica-e-conduta/index.phtml:113
+msgid "etica_conduta_formulario_cargo"
+msgstr "Cargo"
+
+#: ../view/application/etica-e-conduta/index.phtml:117
+msgid "etica_conduta_formulario_departamento"
+msgstr "Departamento"
+
+#: ../view/application/etica-e-conduta/index.phtml:123
+msgid "etica_conduta_formulario_vinculo_com_a_tecnogera"
+msgstr "Vínculo com a Tecnogera*"
+
+#: ../view/application/etica-e-conduta/index.phtml:126
+msgid "etica_conduta_formulario_select_vinculo_selecione"
+msgstr "Selecione"
+
+#: ../view/application/etica-e-conduta/index.phtml:127
+msgid "etica_conduta_formulario_select_vinculo_cliente"
+msgstr "Cliente"
+
+#: ../view/application/etica-e-conduta/index.phtml:128
+msgid "etica_conduta_formulario_select_vinculo_fornecedor"
+msgstr "Fornecedor"
+
+#: ../view/application/etica-e-conduta/index.phtml:129
+msgid "etica_conduta_formulario_select_vinculo_colaboradora"
+msgstr "Colaboradora"
+
+#: ../view/application/etica-e-conduta/index.phtml:130
+msgid "etica_conduta_formulario_select_vinculo_comunidade"
+msgstr "Comunidade"
+
+#: ../view/application/etica-e-conduta/index.phtml:131
+msgid "etica_conduta_formulario_select_vinculo_outros"
+msgstr "Outros"
+
+#: ../view/application/etica-e-conduta/index.phtml:135
+msgid "etica_conduta_formulario_select_incidente_titulo"
+msgstr "Tipo do Incidente"
+
+#: ../view/application/etica-e-conduta/index.phtml:137
+msgid "etica_conduta_formulario_select_incidente_selecione"
+msgstr "Selecione"
+
+#: ../view/application/etica-e-conduta/index.phtml:138
+msgid "etica_conduta_formulario_select_incidente_assedio"
+msgstr "Assédio Moral"
+
+#: ../view/application/etica-e-conduta/index.phtml:139
+msgid "etica_conduta_formulario_select_incidente_adulteracao"
+msgstr "Adulteração de documentos / recibos"
+
+#: ../view/application/etica-e-conduta/index.phtml:140
+msgid "etica_conduta_formulario_select_incidente_coacao"
+msgstr "Coação"
+
+#: ../view/application/etica-e-conduta/index.phtml:141
+msgid "etica_conduta_formulario_select_incidente_desvio"
+msgstr "Desvio de patrimônio - ativos das empresas"
+
+#: ../view/application/etica-e-conduta/index.phtml:142
+msgid "etica_conduta_formulario_select_incidente_favorecimento"
+msgstr "Favorecimento indevido a terceiros"
+
+#: ../view/application/etica-e-conduta/index.phtml:143
+msgid "etica_conduta_formulario_select_incidente_facilitacao"
+msgstr "Facilitação ao desvio/roubo de ativos"
+
+#: ../view/application/etica-e-conduta/index.phtml:144
+msgid "etica_conduta_formulario_select_incidente_fraude"
+msgstr "Fraude contábil - financeira"
+
+#: ../view/application/etica-e-conduta/index.phtml:145
+msgid "etica_conduta_formulario_select_incidente_propina"
+msgstr "Pagamento de propina"
+
+#: ../view/application/etica-e-conduta/index.phtml:146
+msgid "etica_conduta_formulario_select_incidente_suborno"
+msgstr "Pagamento de suborno"
+
+#: ../view/application/etica-e-conduta/index.phtml:147
+msgid "etica_conduta_formulario_select_incidente_quebra"
+msgstr "Quebra as politicas comerciais estabelecidas"
+
+#: ../view/application/etica-e-conduta/index.phtml:148
+msgid "etica_conduta_formulario_select_incidente_relacao"
+msgstr "Relação de parentesco entre líder e liderado"
+
+#: ../view/application/etica-e-conduta/index.phtml:149
+msgid "etica_conduta_formulario_select_incidente_roubo"
+msgstr "Roubo ou Furto de ativos"
+
+#: ../view/application/etica-e-conduta/index.phtml:150
+msgid "etica_conduta_formulario_select_incidente_seguranca"
+msgstr "Risco a saúde e segurançados funcionarios/terceiros"
+
+#: ../view/application/etica-e-conduta/index.phtml:151
+msgid "etica_conduta_formulario_select_incidente_meioambiente"
+msgstr "Risco ao meio ambiente"
+
+#: ../view/application/etica-e-conduta/index.phtml:152
+msgid "etica_conduta_formulario_select_incidente_demais"
+msgstr "Demais temas não relacionados acima"
+
+#: ../view/application/etica-e-conduta/index.phtml:156
+msgid "etica_conduta_formulario_relato_denuncia"
+msgstr "Relato da Denúncia"
+
+#: ../view/application/etica-e-conduta/index.phtml:161
+msgid "etica_conduta_formulario_arquivo"
+msgstr "Arquivo"
+
+#: ../view/application/etica-e-conduta/index.phtml:163
+msgid "etica_conduta_formulario_arquivo_texto"
+msgstr ""
+"Faça o upload de qualquer arquivo que entende que possa contribuir para a "
+"comprovação e apuração da sua denúncia"
+
+#: ../view/application/etica-e-conduta/index.phtml:170
+msgid "etica_conduta_formulario_enviar_arquivo_texto"
+msgstr ""
+"Caso queira estabelecer um canal de comunicação de forma anônima, a fim de "
+"acompanhar evolução da apuração dessa denúncia e contribuir com outras "
+"informações, crie um email anônimo e o preencha no campo de contato de email "
+"acima.  "
+
+#: ../view/application/etica-e-conduta/index.phtml:173
+msgid "etica_conduta_formulario_enviar_mensagem"
+msgstr "ENVIAR MENSAGEM"
+
+#: ../view/application/geracao/index.phtml:6
+msgid "geracao_titulo_interna"
+msgstr "SOLUÇÕES PARA GERAÇÃO DE ENERGIA"
+
+#: ../view/application/geracao/index.phtml:8
+msgid "geracao_subtitulo_interna"
+msgstr ""
+"Portfólio completo de soluções em geração e transformação de energia com "
+"menor consumo de combustível"
+
+#: ../view/application/index/index.phtml:6
+#: ../view/application/index/index.phtml:31 ../view/layout/layout.phtml:263
+msgid "locacao_submenu"
+msgstr "LOCAÇÃO"
+
+#: ../view/application/index/index.phtml:8
+msgid "locacao_home"
+msgstr ""
+"Soluções temporárias para diversos segmentos de mercado, entregando Mais "
+"Energia, com Menos Combustível"
+
+#: ../view/application/index/index.phtml:10
+msgid "locacao_button_home"
+msgstr "CONHEÇA NOSSOS PRODUTOS PARA LOCAÇÃO"
+
+#: ../view/application/index/index.phtml:14
+#: ../view/application/index/index.phtml:45 ../view/layout/layout.phtml:266
+msgid "venda_submenu"
+msgstr "VENDA"
+
+#: ../view/application/index/index.phtml:16
+msgid "venda_home"
+msgstr ""
+"A Tecnogera possuí a frota de geradores mais nova e moderna do país. Para "
+"manter sua frota sempre renovada, a Tecnogera conta com uma divisão de venda "
+"de equipamentos que disponibiliza produtos seminovos revisados, prontos para "
+"entrarem em operação, gerando Mais Energia com Menos Combustível."
+
+#: ../view/application/index/index.phtml:18
+msgid "venta_button_home"
+msgstr "CONHEÇA NOSSOS PRODUTOS PARA VENDA"
+
+#: ../view/application/index/index.phtml:22
+#: ../view/application/index/index.phtml:40 ../view/layout/layout.phtml:264
+msgid "geracao_submenu"
+msgstr "GERAÇÃO"
+
+#: ../view/application/index/index.phtml:24
+msgid "geracao_home"
+msgstr ""
+"Portfólio completo de soluções em geração e transformação de energia com "
+"menor consumo de combustível"
+
+#: ../view/application/index/index.phtml:26
+msgid "geracao_button_home"
+msgstr "CONHEÇA NOSSOS PRODUTOS PARA GERAÇÃO"
+
+#: ../view/application/index/index.phtml:36
+msgid "soliciteorcamento_banner_submenu"
+msgstr "SOLICITAR UM ORÇAMENTO JÁ"
+
+#: ../view/application/index/index.phtml:64
+msgid "titulo_locacao_empergencia"
+msgstr "LOCAÇÃO DE EMERGÊNCIA "
+
+#: ../view/application/index/index.phtml:66
+msgid "locacao_empergencia"
+msgstr ""
+"Atendemos demandas emergenciais! Entre em contato através do 0800 772 1601."
+
+#: ../view/application/index/index.phtml:77
+msgid "titulo_suporte_24hrs"
+msgstr "SUPORTE 24 H "
+
+#: ../view/application/index/index.phtml:79
+msgid "suporte_24hrs"
+msgstr ""
+"Prestamos suporte 24h, 7 dias por semana! Entre em contato através do 0800 "
+"772 1601."
+
+#: ../view/application/index/index.phtml:91
+msgid "solucao_titulo"
+msgstr "SOLUÇÕES COMPLETAS PARA SEU PROJETO"
+
+#: ../view/application/index/index.phtml:93
+msgid "solucao_projeto"
+msgstr ""
+"Entregamos soluções que agregam mais energia, com menos combustível, "
+"dispondo da frota mais moderna do país. Com know-how para atendimento em "
+"projetos de diversas complexidades, em qualquer lugar do país ou América "
+"Latina. "
+
+#: ../view/application/index/index.phtml:103
+msgid "solicite_orcamento"
+msgstr "Solicite seu orçamento aqui"
+
+#: ../view/application/index/index.phtml:213
+msgid "naosabepotencia_titulo"
+msgstr ""
+"NÃO SABE A POTÊNCIA NECESSÁRIA PARA O SEU PROJETO?\n"
+" "
+
+#: ../view/application/index/index.phtml:214
+msgid "naosabepotencia_texto"
+msgstr "UTILIZE NOSSA CALCULADORA DE POTÊNCIA"
+
+#: ../view/application/index/index.phtml:216
+msgid "naosabepotencia_calculo"
+msgstr ""
+"CALCULE AGORA\n"
+" "
+
+#: ../view/application/index/index.phtml:247
+msgid "bannerhome_energia_titulo1"
+msgstr "+ ENERGIA"
+
+#: ../view/application/index/index.phtml:250
+msgid "bannerhome_energia_titulo2"
+msgstr "- COMBUSTÍVEL"
+
+#: ../view/application/index/index.phtml:253
+msgid "bannerhome_energia_texto"
+msgstr ""
+"Com a mais nova frota do mercado e nosso rigoroso plano de manutenção "
+"preventiva, além da constante renovação de frota, possibilitamos a entrega "
+"de mais energia com menos consumo de combustível. Esta é a Tecnogera "
+"colocando a tecnologia a favor do meio."
+
+#: ../view/application/index/index.phtml:263
+msgid "bannerhome_projetos_titulo1"
+msgstr "PROJETOS CUSTOMIZADOS"
+
+#: ../view/application/index/index.phtml:266
+msgid "bannerhome_projetos_titulo2"
+msgstr "ADAPTANDO-SE AO SEU SEGMENTO"
+
+#: ../view/application/index/index.phtml:269
+msgid "bannerhome_projetos_texto"
+msgstr ""
+"Atuamos em todos os segmentos, atendendo a todas as regiões do país e "
+"América Latina, com projetos customizados de diversas complexidades."
+
+#: ../view/application/index/index.phtml:278
+msgid "bannerhome_responsabilidade_titulo1"
+msgstr "Responsabilidade Social"
+
+#: ../view/application/index/index.phtml:278
+msgid "bannerhome_responsabilidade_titulo2"
+msgstr "Tecnogera"
+
+#: ../view/application/index/index.phtml:281
+msgid "bannerhome_responsabilidade_texto"
+msgstr ""
+"Nós da Tecnogera defendemos os princípios da cidadania e realizamos ações "
+"sociais em prol das comunidades nas quais estamos presentes. Acreditamos que "
+"o futuro do nosso negócio só pode ser alcançado se trabalharmos de forma "
+"colaborativa com nossos acionistas, clientes, colaboradores, fornecedores, o "
+"governo e as comunidades. Conheça aqui alguns de nossos projetos de "
+"voluntariado."
+
+#: ../view/application/index/index.phtml:292
+msgid "titulo_segmentos"
+msgstr "SEGMENTOS"
+
+#: ../view/application/index/index.phtml:294
+msgid "paragrafo_segmentos"
+msgstr ""
+"Com nossas soluções de locação de geradores, de climatização e resfriamento "
+"ou em projetos de geração de energia, atendemos às necessidades de diversos "
+"segmentos de mercado. Conheça nossos projetos:"
+
+#: ../view/application/index/index.phtml:383
+msgid "suporte_regioes_titulo"
+msgstr "SUPORTE PARA TODAS REGIÕES"
+
+#: ../view/application/index/index.phtml:386
+msgid "suporte_regioes"
+msgstr ""
+"Contamos com centros de distribuição em localizações estratégicas do país e "
+"bases de apoio em todo território nacional e na América Latina."
+
+#: ../view/application/index/index.phtml:395
+msgid "mapa_spesul"
+msgstr "SÃO PAULO E REGIÃO SUL"
+
+#: ../view/application/index/index.phtml:397
+msgid "mapa_spesul_1"
+msgstr "Matriz - Centro de Distribuição "
+
+#: ../view/application/index/index.phtml:399
+msgid "mapa_spesul_2"
+msgstr "Av. Robert Kennedy, 615 "
+
+#: ../view/application/index/index.phtml:401
+msgid "mapa_spesul_3"
+msgstr ""
+"Planalto – São Bernardo do Campo/SP    <br/>\n"
+"CEP: 09895-003 <br/>\n"
+"(11) 4053-4888 | 0800-772-1601"
+
+#: ../view/application/index/index.phtml:407
+msgid "mapa_spesul_5"
+msgstr "Filial São Paulo (Interior) "
+
+#: ../view/application/index/index.phtml:409
+msgid "mapa_spesul_6"
+msgstr ""
+"Al. Portugal, 93 - sala 23 <br/>\n"
+"Jd. Europa - Bragança Paulista/SP <br/>"
+
+#: ../view/application/index/index.phtml:410
+msgid "mapa_spesul_7"
+msgstr "CEP: 12919-055"
+
+#: ../view/application/index/index.phtml:412
+msgid "mapa_spesul_8"
+msgstr "(11) 4034-3181 | 0800-772-1601"
+
+#: ../view/application/index/index.phtml:419
+msgid "mapa_mgeco"
+msgstr "MINAS GERAIS E REGIÃO CENTRO OESTE"
+
+#: ../view/application/index/index.phtml:422
+msgid "mapa_mgeco_1"
+msgstr "Filial Minas Gerais <br/>"
+
+#: ../view/application/index/index.phtml:423
+msgid "mapa_mgeco_2"
+msgstr ""
+"Av. César Augusto Faria Simões, 250 <br/>\n"
+"Jardim Riacho das Pedras - Contagem/MG"
+
+#: ../view/application/index/index.phtml:426
+msgid "mapa_mgeco_3"
+msgstr "CEP: 32242-190"
+
+#: ../view/application/index/index.phtml:429
+msgid "mapa_mgeco_4"
+msgstr "(31) 3274-7539 | 0800-772-1601"
+
+#: ../view/application/index/index.phtml:433
+msgid "mapa_amla"
+msgstr "AMÉRICA LATINA"
+
+#: ../view/application/index/index.phtml:435
+msgid "mapa_amla_1"
+msgstr ""
+"vendas@tecnogera.com<br/>\n"
+"Argentina +51 11 5365-0788<br/>\n"
+"Peru +51 1 708-9779"
+
+#: ../view/application/index/index.phtml:442
+msgid "mapa_nen"
+msgstr "REGIÃO NORTE E NORDESTE"
+
+#: ../view/application/index/index.phtml:445
+msgid "mapa_nen_1"
+msgstr ""
+"Filial Rio Grande do Norte<br/>\n"
+"Av. Arena colombo, 50 – Macaíba RN<br/>\n"
+"Jardim Potiguar - Macaíba/RN<br/>\n"
+"CEP: 59280-000<br/>\n"
+"0800-772-1601"
+
+#: ../view/application/index/index.phtml:450
+msgid "mapa_nen_2"
+msgstr ""
+"Filial Bahia<br/>\n"
+"Entroncamento BR324 x CIA Aeroporto \n"
+"Distrito Industrial SUDIC<br/>\n"
+"Dica III, Anel III S/N – BIG LOG<br/>\n"
+"Simões Filho, BA CEP: 43.700-000<br/>\n"
+"0800-772-1601"
+
+#: ../view/application/index/index.phtml:454
+msgid "mapa_nen_3"
+msgstr "Manaus 0800 772 16 01 "
+
+#: ../view/application/index/index.phtml:457
+msgid "mapa_nen_4"
+msgstr "Acre 0800 772 16 01"
+
+#: ../view/application/index/index.phtml:463
+msgid "mapa_res"
+msgstr "RIO DE JANERO E ESPIRITO SANTO"
+
+#: ../view/application/index/index.phtml:466
+msgid "mapa_res_1"
+msgstr "Filial Rio de Janeiro"
+
+#: ../view/application/index/index.phtml:467
+msgid "mapa_res_2"
+msgstr ""
+"Rodovia Washington Luis, 1980 - Km 02 <br/>\n"
+"Parque Santa Marta - Duque de Caxias/RJ\n"
+"CEP: 25065-007 <br/>\n"
+"(21) 3439-6258 | 0800-772-1601"
+
+#: ../view/application/index/index.phtml:508
+msgid "blog_paragrafo"
+msgstr "Conheça nossas novidades, conteúdos técnicos e notícias:"
+
+#: ../view/application/index/index.phtml:534
+msgid "clientes_parceiros"
+msgstr "CLIENTES E PARCEIROS"
+
+#: ../view/application/locacao/detalhe.phtml:60
+msgid "locacao_titulo_efeitos"
+msgstr "PASSE O MOUSE PARA CONHECER"
+
+#: ../view/application/locacao/detalhe.phtml:62
+msgid "locacao_texto_efeitos"
+msgstr "NOSSOS <b>EQUIPAMENTOS RELACIONADOS AO GERADOR DE ENERGIA.</b>"
+
+#: ../view/application/locacao/detalhe.phtml:420
+#: ../view/application/locacao/detalhe.phtml:855
+msgid "potencias_disponiveis"
+msgstr "POTÊNCIAS DISPONÍVEIS PARA LOCAÇÃO"
+
+#: ../view/application/locacao/detalhe.phtml:423
+msgid "potencias_disponiveis_1"
+msgstr "ATÉ 100 KVA"
+
+#: ../view/application/locacao/detalhe.phtml:426
+msgid "potencias_disponiveis_2"
+msgstr "ENTRE 100 E 300 KVA"
+
+#: ../view/application/locacao/detalhe.phtml:429
+msgid "potencias_disponiveis_3"
+msgstr "ENTRE 300 E 750 KVA"
+
+#: ../view/application/locacao/detalhe.phtml:432
+msgid "potencias_disponiveis_4"
+msgstr "ENTRE 750 E 1000 KVA"
+
+#: ../view/application/locacao/detalhe.phtml:435
+msgid "potencias_disponiveis_5"
+msgstr "ENTRE 1000 E 1400 KVA"
+
+#: ../view/application/locacao/detalhe.phtml:438
+msgid "potencias_disponiveis_6"
+msgstr "ACIMA DE 1400 KVA"
+
+#: ../view/application/locacao/detalhe.phtml:446
+#: ../view/application/locacao/detalhe.phtml:495
+#: ../view/application/locacao/detalhe.phtml:546
+#: ../view/application/locacao/detalhe.phtml:593
+#: ../view/application/locacao/detalhe.phtml:640
+#: ../view/application/locacao/detalhe.phtml:685
+msgid "potencias_especificacoes_1"
+msgstr "Potência (kVA)"
+
+#: ../view/application/locacao/detalhe.phtml:447
+#: ../view/application/locacao/detalhe.phtml:496
+#: ../view/application/locacao/detalhe.phtml:547
+#: ../view/application/locacao/detalhe.phtml:594
+#: ../view/application/locacao/detalhe.phtml:641
+#: ../view/application/locacao/detalhe.phtml:686
+msgid "potencias_especificacoes_2"
+msgstr "Dimensões (m)"
+
+#: ../view/application/locacao/detalhe.phtml:448
+#: ../view/application/locacao/detalhe.phtml:497
+#: ../view/application/locacao/detalhe.phtml:548
+#: ../view/application/locacao/detalhe.phtml:595
+#: ../view/application/locacao/detalhe.phtml:642
+#: ../view/application/locacao/detalhe.phtml:687
+msgid "potencias_especificacoes_3"
+msgstr "Ruído (dBA)"
+
+#: ../view/application/locacao/detalhe.phtml:449
+#: ../view/application/locacao/detalhe.phtml:498
+#: ../view/application/locacao/detalhe.phtml:549
+#: ../view/application/locacao/detalhe.phtml:596
+#: ../view/application/locacao/detalhe.phtml:643
+#: ../view/application/locacao/detalhe.phtml:688
+msgid "potencias_especificacoes_4"
+msgstr "Consumo (L/H)"
+
+#: ../view/application/locacao/detalhe.phtml:450
+#: ../view/application/locacao/detalhe.phtml:499
+#: ../view/application/locacao/detalhe.phtml:550
+#: ../view/application/locacao/detalhe.phtml:597
+#: ../view/application/locacao/detalhe.phtml:644
+#: ../view/application/locacao/detalhe.phtml:689
+msgid "potencias_especificacoes_5"
+msgstr "Peso (Kg)"
+
+#: ../view/application/locacao/detalhe.phtml:451
+#: ../view/application/locacao/detalhe.phtml:500
+#: ../view/application/locacao/detalhe.phtml:551
+#: ../view/application/locacao/detalhe.phtml:598
+#: ../view/application/locacao/detalhe.phtml:645
+#: ../view/application/locacao/detalhe.phtml:690
+msgid "potencias_especificacoes_6"
+msgstr "Tanque de Combustível(L)"
+
+#: ../view/application/locacao/detalhe.phtml:456
+msgid "potencias_tabela_linha_1_1"
+msgstr " Standby: entre 15 e 100"
+
+#: ../view/application/locacao/detalhe.phtml:457
+msgid "potencias_tabela_linha_1_2"
+msgstr "Comprimento  : entre 1,4 e 4,36"
+
+#: ../view/application/locacao/detalhe.phtml:458
+msgid "potencias_tabela_linha_1_3"
+msgstr "a 1 metro: 85"
+
+#: ../view/application/locacao/detalhe.phtml:459
+msgid "potencias_tabela_linha_1_4"
+msgstr "a partir de 2,3"
+
+#: ../view/application/locacao/detalhe.phtml:460
+msgid "potencias_tabela_linha_1_5"
+msgstr "a partir de 554"
+
+#: ../view/application/locacao/detalhe.phtml:461
+msgid "potencias_tabela_linha_1_6"
+msgstr "Litros: até 100"
+
+#: ../view/application/locacao/detalhe.phtml:464
+msgid "potencias_tabela_linha_2_1"
+msgstr "Prime: entre 12 e 70"
+
+#: ../view/application/locacao/detalhe.phtml:465
+msgid "potencias_tabela_linha_2_2"
+msgstr "Largura  : entre 0,80 e 1,68"
+
+#: ../view/application/locacao/detalhe.phtml:466
+msgid "potencias_tabela_linha_2_3"
+msgstr "a 7 metros: 75"
+
+#: ../view/application/locacao/detalhe.phtml:474
+msgid "potencias_tabela_linha_3_1"
+msgstr "Continuo: entre 11 e 65"
+
+#: ../view/application/locacao/detalhe.phtml:475
+msgid "potencias_tabela_linha_3_2"
+msgstr "Altura  : entre 1,12 e  1,73"
+
+#: ../view/application/locacao/detalhe.phtml:484
+msgid "potencias_textos_1"
+msgstr "GERADOR DE ENERGIA ATÉ 100 kVA"
+
+#: ../view/application/locacao/detalhe.phtml:487
+msgid "potencias_textos_2"
+msgstr ""
+"Compactos, os Geradores de até 100kVA disponíveis para locação da Tecnogera, "
+"são ideais para aplicações em espaço reduzido e se destacam pelo baixo "
+"consumo de combustível. \n"
+"<br />\n"
+"<br />\n"
+"Nossos geradores de energia a diesel são carenados e silenciados, além da "
+"possibilidade de utilização com toda nossa linha de acessórios, resultado em "
+"uma solução completa.\n"
+"<br />\n"
+"<br />\n"
+"Atendemos 24 horas por dia, 7 dias na semana, para oferecer as melhores "
+"opções em geradores de 15 a 100kVA e garantir soluções completas em energia "
+"temporária."
+
+#: ../view/application/locacao/detalhe.phtml:505
+msgid "potencias_tabela_2_linha_1_1"
+msgstr "Standby: entre 100 e 300 "
+
+#: ../view/application/locacao/detalhe.phtml:506
+msgid "potencias_tabela_2_linha_1_2"
+msgstr "Comprimento  : entre 1,7 e 3,8 "
+
+#: ../view/application/locacao/detalhe.phtml:507
+msgid "potencias_tabela_2_linha_1_3"
+msgstr "a 1 metro: 85 "
+
+#: ../view/application/locacao/detalhe.phtml:508
+msgid "potencias_tabela_2_linha_1_4"
+msgstr "a partir de 16,6 "
+
+#: ../view/application/locacao/detalhe.phtml:509
+msgid "potencias_tabela_2_linha_1_5"
+msgstr "a partir de 1840 "
+
+#: ../view/application/locacao/detalhe.phtml:510
+msgid "potencias_tabela_2_linha_1_6"
+msgstr "Litros: até 200 "
+
+#: ../view/application/locacao/detalhe.phtml:513
+msgid "potencias_tabela_2_linha_2_1"
+msgstr "Prime: entre 85 e 240 "
+
+#: ../view/application/locacao/detalhe.phtml:514
+msgid "potencias_tabela_2_linha_2_2"
+msgstr "Largura  : entre 1,10 e 1,25 "
+
+#: ../view/application/locacao/detalhe.phtml:515
+msgid "potencias_tabela_2_linha_2_3"
+msgstr "a 7 metros: 75 "
+
+#: ../view/application/locacao/detalhe.phtml:523
+msgid "potencias_tabela_2_linha_3_1"
+msgstr "Continuo: entre 77 e 220 "
+
+#: ../view/application/locacao/detalhe.phtml:524
+msgid "potencias_tabela_2_linha_3_2"
+msgstr "Altura  : entre 1,62 e 2,8 "
+
+#: ../view/application/locacao/detalhe.phtml:533
+msgid "potencias_tabela_2_texto_titulo"
+msgstr "GERADOR DE ENERGIA DE 100 ATÉ 300 kVA"
+
+#: ../view/application/locacao/detalhe.phtml:535
+msgid "potencias_tabela_2_texto_texto1"
+msgstr ""
+"Os Geradores entre 100kVA e 300kVA disponíveis para locação da Tecnogera, "
+"entregam potência para diversas aplicações e utilizam aproximadamente o "
+"espaço de uma vaga de estacionamento, inseridos na premissa de Mais energia "
+"com menor consumo de combustível, possuem excelente rendimento.\n"
+"<br />\n"
+"<br />\n"
+"Nossos geradores de energia a diesel são carenados e silenciados, além da "
+"possibilidade de utilização com toda nossa linha de acessórios, resultado em "
+"uma solução completa.\n"
+"<br />\n"
+"<br />\n"
+"Atendemos 24 horas por dia, 7 dias na semana, para oferecer as melhores "
+"opções em geradores de 15 a 100kVA e garantir soluções completas em energia "
+"temporária."
+
+#: ../view/application/locacao/detalhe.phtml:556
+msgid "potencias_tabela_3_linha_1_1"
+msgstr "Standby: entre 300 e 750"
+
+#: ../view/application/locacao/detalhe.phtml:557
+msgid "potencias_tabela_3_linha_1_2"
+msgstr "Comprimento  : entre 4 e 5,90"
+
+#: ../view/application/locacao/detalhe.phtml:558
+msgid "potencias_tabela_3_linha_1_3"
+msgstr " a 1 metro: 85"
+
+#: ../view/application/locacao/detalhe.phtml:559
+msgid "potencias_tabela_3_linha_1_4"
+msgstr "a partir de 54,4"
+
+#: ../view/application/locacao/detalhe.phtml:560
+msgid "potencias_tabela_3_linha_1_5"
+msgstr "a partir de 4000"
+
+#: ../view/application/locacao/detalhe.phtml:561
+msgid "potencias_tabela_3_linha_1_6"
+msgstr "Litros: até 1000"
+
+#: ../view/application/locacao/detalhe.phtml:564
+msgid "potencias_tabela_3_linha_2_1"
+msgstr "Prime: entre 277 e 578"
+
+#: ../view/application/locacao/detalhe.phtml:565
+msgid "potencias_tabela_3_linha_2_2"
+msgstr "Largura  : entre 1,15 e 1,91 "
+
+#: ../view/application/locacao/detalhe.phtml:566
+msgid "potencias_tabela_3_linha_2_3"
+msgstr "a 7 metros: 75"
+
+#: ../view/application/locacao/detalhe.phtml:573
+msgid "potencias_tabela_3_linha_3_1"
+msgstr "Continuo: entre 252 e 525 "
+
+#: ../view/application/locacao/detalhe.phtml:574
+msgid "potencias_tabela_3_linha_3_2"
+msgstr "Altura  : entre 2,15 e 2,75 "
+
+#: ../view/application/locacao/detalhe.phtml:583
+msgid "potencias_tabela_3_texto_titulo"
+msgstr "GERADOR DE ENERGIA DE 300 ATÉ 750 kVA"
+
+#: ../view/application/locacao/detalhe.phtml:585
+msgid "potencias_tabela_2_texto_texto2"
+msgstr ""
+"Com potência e modularidade para diversos projetos. Os Geradores entre "
+"300kVA e 750kVA disponíveis para locação da Tecnogera, são destinados à "
+"diversas aplicações, inseridos na premissa de: Mais energia com menor "
+"consumo de combustível, possuem excelente rendimento.\n"
+"<br />\n"
+"<br />\n"
+"Nossos geradores de energia a diesel são carenados e silenciados, além da "
+"possibilidade de utilização com toda nossa linha de acessórios, resultado em "
+"uma solução completa. <br /> \n"
+"<br />\n"
+" Atendemos 24 horas por dia, 7 dias na semana, para oferecer as melhores "
+"opções em geradores de 15 a 100kVA e garantir soluções completas em energia "
+"temporária."
+
+#: ../view/application/locacao/detalhe.phtml:603
+msgid "potencias_tabela_4_linha_1_1"
+msgstr "Standby: entre  750 e 1000 "
+
+#: ../view/application/locacao/detalhe.phtml:604
+msgid "potencias_tabela_4_linha_1_2"
+msgstr "Comprimento  : entre 4,60 e 5,90 "
+
+#: ../view/application/locacao/detalhe.phtml:605
+msgid "potencias_tabela_4_linha_1_3"
+msgstr "a 1 metro: 85 "
+
+#: ../view/application/locacao/detalhe.phtml:606
+msgid "potencias_tabela_4_linha_1_4"
+msgstr "a partir de 113,4 "
+
+#: ../view/application/locacao/detalhe.phtml:607
+msgid "potencias_tabela_4_linha_1_5"
+msgstr "a partir de 7500 "
+
+#: ../view/application/locacao/detalhe.phtml:608
+msgid "potencias_tabela_4_linha_1_6"
+msgstr "Litros: até 1000 "
+
+#: ../view/application/locacao/detalhe.phtml:611
+msgid "potencias_tabela_4_linha_2_1"
+msgstr "Prime: entre 277 e 578 "
+
+#: ../view/application/locacao/detalhe.phtml:612
+msgid "potencias_tabela_4_linha_2_2"
+msgstr "Largura  : \tentre 1,55 e 1,91 "
+
+#: ../view/application/locacao/detalhe.phtml:613
+msgid "potencias_tabela_4_linha_2_3"
+msgstr "a 7 metros: 75 "
+
+#: ../view/application/locacao/detalhe.phtml:620
+msgid "potencias_tabela_4_linha_3_1"
+msgstr "Continuo: entre 252 e 525 "
+
+#: ../view/application/locacao/detalhe.phtml:621
+msgid "potencias_tabela_4_linha_3_2"
+msgstr " Altura  : entre 2,30 e 3,45 "
+
+#: ../view/application/locacao/detalhe.phtml:630
+msgid "potencias_tabela_4_texto_titulo"
+msgstr "GERADOR DE ENERGIA DE 750 ATÉ 1000 kVA"
+
+#: ../view/application/locacao/detalhe.phtml:632
+msgid "potencias_tabela_2_texto_texto3"
+msgstr ""
+"Com potência e modularidade para diversos projetos. Os Geradores entre "
+"750kVA e 1000kVA disponíveis para locação da Tecnogera, são destinados à "
+"diversas aplicações, inseridos na premissa de: Mais energia com menor "
+"consumo de combustível, possuem excelente rendimento.\n"
+"<br />\n"
+"<br />\n"
+"Nossos geradores de energia a diesel são carenados e silenciados, além da "
+"possibilidade de utilização com toda nossa linha de acessórios, resultado em "
+"uma solução completa.\n"
+"<br />\n"
+"<br />\n"
+"Atendemos 24 horas por dia, 7 dias na semana, para oferecer as melhores "
+"opções em geradores de 15 a 100kVA e garantir soluções completas em energia "
+"temporária."
+
+#: ../view/application/locacao/detalhe.phtml:650
+msgid "potencias_tabela_5_linha_1_1"
+msgstr "Standby: entre 1000 e 1400 "
+
+#: ../view/application/locacao/detalhe.phtml:651
+msgid "potencias_tabela_5_linha_1_2"
+msgstr "Comprimento  : entre 4,60 e 6,12 "
+
+#: ../view/application/locacao/detalhe.phtml:652
+msgid "potencias_tabela_5_linha_1_3"
+msgstr "a 1 metro: 85 "
+
+#: ../view/application/locacao/detalhe.phtml:653
+msgid "potencias_tabela_5_linha_1_4"
+msgstr "a partir de 151,2 "
+
+#: ../view/application/locacao/detalhe.phtml:654
+msgid "potencias_tabela_5_linha_1_5"
+msgstr "a partir de 10000 "
+
+#: ../view/application/locacao/detalhe.phtml:655
+msgid "potencias_tabela_5_linha_1_6"
+msgstr "Litros: até 2000 "
+
+#: ../view/application/locacao/detalhe.phtml:658
+msgid "potencias_tabela_5_linha_2_1"
+msgstr "Prime: entre 770 e 1078 "
+
+#: ../view/application/locacao/detalhe.phtml:659
+msgid "potencias_tabela_5_linha_2_2"
+msgstr "Largura  : entre 1,55 e 2,44 "
+
+#: ../view/application/locacao/detalhe.phtml:660
+msgid "potencias_tabela_5_linha_2_3"
+msgstr "a 7 metros: 75 "
+
+#: ../view/application/locacao/detalhe.phtml:666
+msgid "potencias_tabela_5_linha_3_1"
+msgstr "Continuo: entre 700 e 980 "
+
+#: ../view/application/locacao/detalhe.phtml:667
+msgid "potencias_tabela_5_linha_3_2"
+msgstr "Altura  : entre 2,40 e 2,59 "
+
+#: ../view/application/locacao/detalhe.phtml:675
+msgid "potencias_tabela_5_texto_titulo"
+msgstr " GERADOR DE ENERGIA DE 1000 ATÉ 1400 kVA"
+
+#: ../view/application/locacao/detalhe.phtml:677
+msgid "potencias_tabela_2_texto_texto4"
+msgstr ""
+"Com potência e modularidade para diversos projetos. Os Geradores entre 1000 "
+"e 1400kVA disponíveis para locação da Tecnogera, são destinados à diversas "
+"aplicações, inseridos na premissa de: Mais energia com menor consumo de "
+"combustível, possuem excelente rendimento.\n"
+"<br />\n"
+"<br />\n"
+"Nossos geradores de energia a diesel são carenados e silenciados, além da "
+"possibilidade de utilização com toda nossa linha de acessórios, resultado em "
+"uma solução completa.\n"
+"<br />\n"
+"<br />\n"
+"Atendemos 24 horas por dia, 7 dias na semana, para oferecer as melhores "
+"opções em geradores de 15 a 100kVA e garantir soluções completas em energia "
+"temporária."
+
+#: ../view/application/locacao/detalhe.phtml:695
+msgid "potencias_tabela_6_linha_1_1"
+msgstr "Standby: acima de 1400 "
+
+#: ../view/application/locacao/detalhe.phtml:696
+msgid "potencias_tabela_6_linha_1_2"
+msgstr "Comprimento  : 7,71 "
+
+#: ../view/application/locacao/detalhe.phtml:697
+msgid "potencias_tabela_6_linha_1_3"
+msgstr "a 1 metro: 85 "
+
+#: ../view/application/locacao/detalhe.phtml:698
+msgid "potencias_tabela_6_linha_1_4"
+msgstr "a partir de 237,6 "
+
+#: ../view/application/locacao/detalhe.phtml:699
+msgid "potencias_tabela_6_linha_1_5"
+msgstr "a partir de 16000 "
+
+#: ../view/application/locacao/detalhe.phtml:700
+msgid "potencias_tabela_6_linha_1_6"
+msgstr " Litros: até 2000 "
+
+#: ../view/application/locacao/detalhe.phtml:703
+msgid "potencias_tabela_6_linha_2_1"
+msgstr " Prime: 1200 "
+
+#: ../view/application/locacao/detalhe.phtml:704
+msgid "potencias_tabela_6_linha_2_2"
+msgstr "Largura  : 2,27 "
+
+#: ../view/application/locacao/detalhe.phtml:705
+msgid "potencias_tabela_6_linha_2_3"
+msgstr " a 7 metros: 75 "
+
+#: ../view/application/locacao/detalhe.phtml:712
+msgid "potencias_tabela_6_linha_3_1"
+msgstr "Continuo: 1100 "
+
+#: ../view/application/locacao/detalhe.phtml:713
+msgid "potencias_tabela_6_linha_3_2"
+msgstr "Altura  : entre 2,57"
+
+#: ../view/application/locacao/detalhe.phtml:722
+msgid "potencias_tabela_6_texto_titulo"
+msgstr " GERADOR DE ENERGIA ACIMA DE 1400 kVA "
+
+#: ../view/application/locacao/detalhe.phtml:724
+msgid "potencias_tabela_2_texto_texto6"
+msgstr ""
+"Com potência e modularidade para diversos projetos. Os Geradores acima de "
+"1400kVA disponíveis para locação da Tecnogera, são destinados à diversas "
+"aplicações, inseridos na premissa de: Mais energia com menor consumo de "
+"combustível, possuem excelente rendimento.\n"
+" <br />\n"
+" <br />\n"
+" Nossos geradores de energia a diesel são carenados e silenciados, além da "
+"possibilidade de utilização com toda nossa linha de acessórios, resultado em "
+"uma solução completa.\n"
+" <br />\n"
+" <br />\n"
+" Atendemos 24 horas por dia, 7 dias na semana, para oferecer as melhores "
+"opções em geradores de 15 a 100kVA e garantir soluções completas em energia "
+"temporária."
+
+#: ../view/application/locacao/detalhe.phtml:861
+msgid "potencia_aquecimento_tabela_titulo_1"
+msgstr "Modelo"
+
+#: ../view/application/locacao/detalhe.phtml:862
+msgid "potencia_aquecimento_tabela_titulo_2"
+msgstr "Potência Elétrica [Kw]"
+
+#: ../view/application/locacao/detalhe.phtml:863
+msgid "potencia_aquecimento_tabela_titulo_3"
+msgstr "Compressor"
+
+#: ../view/application/locacao/detalhe.phtml:864
+msgid "potencia_aquecimento_tabela_titulo_4"
+msgstr "Comprimento(m)"
+
+#: ../view/application/locacao/detalhe.phtml:865
+msgid "potencia_aquecimento_tabela_titulo_5"
+msgstr "Largura(m)"
+
+#: ../view/application/locacao/detalhe.phtml:866
+msgid "potencia_aquecimento_tabela_titulo_6"
+msgstr "Altura(m)"
+
+#: ../view/application/locacao/detalhe.phtml:867
+msgid "potencia_aquecimento_tabela_titulo_7"
+msgstr "Peso (kg)"
+
+#: ../view/application/locacao/index.phtml:14
+msgid "locacao-interna-titulo"
+msgstr "PRODUTOS PARA LOCAÇÃO"
+
+#: ../view/application/locacao/index.phtml:16
+msgid "locacao-interna"
+msgstr ""
+"A locação de equipamentos é uma opção altamente recomendada para soluções "
+"temporárias de diversos segmentos de mercado. A grande vantagem da locação é "
+"repassar toda responsabilidade técnica para a empresa contratada. A "
+"Tecnogera assume o papel de provedora de todo suporte técnico, desde a "
+"projeção, instalação, operação e desmobilização da solução, com o objetivo "
+"de garantir o fornecimento imediato e ininterrupto, com segurança e sem "
+"impactar na produtividade da contratante. "
+
+#: ../view/application/locacao/index.phtml:44
+msgid "saiba-mais"
+msgstr "SAIBA MAIS"
+
+#: ../view/application/locacao/index.phtml:57
+msgid "acessorios-tecnogera"
+msgstr "Acessórios Tecnogera"
+
+#: ../view/application/locacao/index.phtml:87
+msgid "acessorios_formulario_titulo"
+msgstr "QUER ALUGAR UM DE NOSSOS PRODUTOS? <b>SOLICITE UM ORÇAMENTO JÁ!</b>"
+
+#: ../view/application/locacao/index.phtml:92
+#: ../view/application/orcamento/index.phtml:32
+msgid "acessorios_formulario_1"
+msgstr "Nome*"
+
+#: ../view/application/locacao/index.phtml:96
+#: ../view/application/orcamento/index.phtml:36
+msgid "acessorios_formulario_2"
+msgstr "Sobrenome*"
+
+#: ../view/application/locacao/index.phtml:100
+#: ../view/application/orcamento/index.phtml:40
+msgid "acessorios_formulario_3"
+msgstr "E-mail*"
+
+#: ../view/application/locacao/index.phtml:104
+#: ../view/application/orcamento/index.phtml:44
+msgid "acessorios_formulario_4"
+msgstr "Empresa"
+
+#: ../view/application/locacao/index.phtml:108
+#: ../view/application/orcamento/index.phtml:48
+msgid "acessorios_formulario_5"
+msgstr "Telefone*"
+
+#: ../view/application/locacao/index.phtml:112
+msgid "acessorios_formulario_6"
+msgstr "Celular*"
+
+#: ../view/application/locacao/index.phtml:190
+#: ../view/application/orcamento/index.phtml:124
+msgid "acessorios_formulario_10"
+msgstr "Mensagem*"
+
+#: ../view/application/orcamento/index.phtml:26
+msgid "orcamentos_tit"
+msgstr "SOLICITE JÁ SEU ORÇAMENTO"
+
+#: ../view/application/orcamento/index.phtml:28
+msgid "orcamentos_sub"
+msgstr ""
+"Ficou interessado em contratar um de nossos serviços? Solicite já o seu "
+"orçamento! Retornaremos o contato o mais breve possível. "
+
+#: ../view/application/orcamento/index.phtml:130
+msgid "acessorios_formulario_anexo"
+msgstr "Anexo:"
+
+#: ../view/application/responsabilidade-social/index.phtml:15
+msgid "resposabilidada_titulo"
+msgstr "RESPONSABILIDADE SOCIAL"
+
+#: ../view/application/responsabilidade-social/index.phtml:18
+msgid "resposabilidada_texto"
+msgstr ""
+"Nós da Tecnogera defendemos os princípios da cidadania e realizamos ações "
+"sociais em prol das comunidades nas quais estamos presentes. Acreditamos que "
+"o futuro do nosso negócio só pode ser alcançado se trabalharmos de forma "
+"colaborativa com nossos acionistas, clientes, colaboradores, fornecedores, o "
+"governo e as comunidades. Conheça aqui alguns de nossos projetos de "
+"voluntariado:"
+
+#: ../view/application/responsabilidade-social/index.phtml:36
+msgid "criancas_titulo"
+msgstr "Criança Energia"
+
+#: ../view/application/responsabilidade-social/index.phtml:38
+msgid "criancas_texto"
+msgstr ""
+"Diversas ações ao longo do ano são realizadas com crianças em instituições "
+"de apoio social em todo Brasil. Uma delas é em conjunto com o SAMA Criança, "
+"entidade filantrópica sem fins lucrativos que tem como objetivo acolher "
+"crianças e adolescentes em situação de risco pessoal e social. Doações de "
+"mantimentos e brinquedos, dias de recreação e visitas são realizadas ao "
+"longo de todo o ano. O sorriso destas crianças é sempre o maior presente que "
+"nossos colaboradores podem levar para casa após estas ações de voluntariado!"
+
+#: ../view/application/responsabilidade-social/index.phtml:50
+msgid "inverno_titulo"
+msgstr "Aquece Tecnogera"
+
+#: ../view/application/responsabilidade-social/index.phtml:52
+msgid "inverno_texto"
+msgstr ""
+"Anualmente, com a chegada do inverno e suas baixas temperaturas no estado "
+"São Paulo, a Tecnogera organiza campanhas de doação de agasalhos, cobertores "
+"e mantimentos, que são destinados a instituições e comunidades carentes "
+"próximas à nossa sede. A Casa Velhinhos de Dona Adelaide é uma das "
+"instituições participantes dessa campanha. Somos muito gratos pelos valiosos "
+"momentos e pela troca de experiências juntamente com seus membros!"
+
+#: ../view/application/responsabilidade-social/index.phtml:62
+msgid "natal_titulo"
+msgstr "Natal Solidário"
+
+#: ../view/application/responsabilidade-social/index.phtml:64
+msgid "natal_texto"
+msgstr ""
+"A data mais esperada por crianças, adultos e a melhor idade não poderia "
+"ficar de fora do nosso calendário social! Todo mês de Dezembro, levantamos "
+"doações para instituições que apoiamos e vamos, pessoalmente, fazer as "
+"entregas e passar o dia com eles. Dentre as instituições estão: SAMA "
+"Criança, Lar Escola Pequeno Leão, em São Paulo, Associação dos Moradores da "
+"Vila Beira Mar, no Rio de Janeiro, entre outros."
+
+#: ../view/application/responsabilidade-social/index.phtml:76
+msgid "entidades_beneficiadas"
+msgstr "ENTIDADES BENEFICIADAS PELA TECNOGERA"
+
+#: ../view/application/segmentos/index.phtml:14
+msgid "segmentos_titulo_interna"
+msgstr "SEGMENTOS"
+
+#: ../view/application/segmentos/index.phtml:16
+msgid "segmentos_texto_interna"
+msgstr ""
+"Atendemos a diversos segmentos, oferecendo sempre as melhores e mais "
+"completas soluções em energia temporária.  "
+
+#: ../view/application/sobre-nos/index.phtml:15
+msgid "sobre_nos_titulo_interna"
+msgstr "SOBRE NÓS"
+
+#: ../view/application/sobre-nos/index.phtml:18
+msgid "sobre_nos_paragrafo_interna"
+msgstr ""
+"Fundada em 2006, a Tecnogera é uma empresa brasileira especializada em "
+"soluções completas em energia temporária, incluindo locação de equipamentos "
+"e implantação e operação de plantas de energia. \n"
+"<br />\n"
+"<br />\n"
+"Presente em todo território nacional e América Latina, a Tecnogera atua "
+"provendo soluções de locação, de grupos geradores, equipamentos de "
+"resfriamento e bancos de carga, além de soluções de geração customizadas de "
+"acordo com a necessidade energética do projeto. \n"
+"<br />\n"
+"<br />\n"
+"Focada em soluções que agreguem “mais energia, com menos combustível”, a "
+"Tecnogera conta com a frota de equipamentos mais moderna do país, sob "
+"constante atualização. Sua capacidade de atendimento abrange projetos de "
+"diversas complexidades, prestando os devidos atendimentos com o mesmo padrão "
+"de qualidade em quaquer local do país ou América Latina. Ciente das "
+"necessidades emergenciais de seus clientes, oferece atendimento 24 horas por "
+"dia e sete dias por semana. \n"
+"<br />\n"
+"<br />\n"
+"\n"
+"Entre os principais clientes atendidos, podemos citar empresas dos setores "
+"de óleo & gás, mineração, energia renovável, comércio & serviços, indústria, "
+"eventos e construção civil.\n"
+"<br />\n"
+"<br />\n"
+"Desde 2014, a Tecnogera conta com a sociedade do Pátria Investimentos, um "
+"dos maiores gestores de investimentos em infraestrutura do país."
+
+#: ../view/application/sobre-nos/index.phtml:30
+msgid "sobre_nos_responsabilidade_titulo"
+msgstr "RESPONSABILIDADE SOCIAL"
+
+#: ../view/application/sobre-nos/index.phtml:32
+msgid "sobre_nos_responsabilidade_paragrafo"
+msgstr ""
+"A tecnogera tem o compromisso com o desenvolvimento das comunidades onde "
+"atua. Como a disponibilização diretos, em suas atividades, e através de "
+"ações de voluntariado."
+
+#: ../view/application/sobre-nos/index.phtml:47
+msgid "sobre_nos_visao_titulo"
+msgstr "VISÃO"
+
+#: ../view/application/sobre-nos/index.phtml:50
+msgid "sobre_nos_visao_paragrafo"
+msgstr ""
+"Ser a mais ágil e eficiente empresa em soluções confiáveis de energia "
+"temporária, líder na América Latina."
+
+#: ../view/application/sobre-nos/index.phtml:59
+msgid "sobre_nos_nossaessencia_titulo"
+msgstr "NOSSA ESSÊNCIA"
+
+#: ../view/application/sobre-nos/index.phtml:62
+msgid "sobre_nos_nossaessencia_paragrafo"
+msgstr ""
+"Nossas ações são orientadas por nossa Visão e nossos Valores. Ética, "
+"honestidade, respeito mútuo e princípios de justiça estão no cerne do nosso "
+"crescimento, assim como as nossas pessoas, que trabalham todos os dias com "
+"compromisso e senso de urgência para a entrega e superação dos resultados "
+"esperados."
+
+#: ../view/application/sobre-nos/index.phtml:67
+msgid "sobre_nos_valores_titulo"
+msgstr "VALORES"
+
+#: ../view/application/sobre-nos/index.phtml:70
+msgid "sobre_nos_valores_paragrafo"
+msgstr ""
+"\t\t\t\t\t\t<b>Nossa Cultura:</b> trabalhamos de forma objetiva e eficiente, "
+"com integridade e senso de urgência;\n"
+"\t\t\t\t\t\t<br />\n"
+"\t\t\t\t\t\t<b> Foco no Cliente:</b> os clientes são a razão da nossa "
+"existência. Nos comprometemos a atender suas demandas no local e prazo "
+"necessários;\n"
+"\t\t\t\t\t\t<br />\n"
+"\t\t\t\t\t\t<b>Segurança:</b> somos rigorosos no cumprimento dos nossos "
+"padrões, prezando pela segurança dos nossos clientes e colaboradores; \n"
+"\t\t\t\t\t\t<br />\n"
+"\t\t\t\t\t\t<b>Resultados com Qualidade:</b> buscamos maximizar os "
+"resultados, valorizando a qualidade em cada detalhe de nossa operação; \n"
+"\t\t\t\t\t\t<br />\n"
+"\t\t\t\t\t\t<b>Trabalho em Equipe:</b> juntos alcançamos nossos objetivos, "
+"confiamos uns nos outros, compartilhando conquistas e resultados; \n"
+"\t\t\t\t\t\t<br />\n"
+"\t\t\t\t\t\t<b>Meio Ambiente:</b> somos comprometidos com a proteção do meio "
+"ambiente. "
+
+#: ../view/application/venda/index.phtml:6
+msgid "venda_titulo_interna"
+msgstr "VENDA"
+
+#: ../view/application/venda/index.phtml:8
+msgid "venda_subtitulo_interna"
+msgstr ""
+"A Tecnogera possuí a frota de geradores mais nova e moderna do país. Para "
+"manter sua frota sempre renovada, a Tecnogera conta com uma divisão de venda "
+"de equipamentos que disponibiliza produtos seminovos revisados, prontos para "
+"entrarem em operação, gerando Mais Energia com Menos Combustível."
+
+#: ../view/application/venda/index.phtml:25
+msgid "venda-texto"
+msgstr ""
+"A Tecnogera tem a frota de geradores mais nova e moderna do país. Formada "
+"por mais de 800 grupos geradores, com potência que varia de 15 KVA a 2500 "
+"KVA, além de chillers, bancos de carga e acessórios. Nossos equipamentos se "
+"destacam pela eficiência energética e menor consumo de combustível. Para "
+"manter sua frota renovada, a Tecnogera conta com uma divisão de venda de "
+"equipamentos que disponibiliza produtos seminovos revisados, prontos para "
+"entrarem em operação. Se você precisa de um gerador para garantir o "
+"funcionamento do seu negócio, entre em contato conosco e saiba mais!"
+
+#: ../view/error/404_debug.phtml:3
+msgid "A 404 error occurred"
+msgstr "Ocorreu um erro 404"
+
+#: ../view/error/404_debug.phtml:12
+msgid "The requested controller was unable to dispatch the request."
+msgstr "O controlador requisitado não foi capaz de despachar a requisição."
+
+#: ../view/error/404_debug.phtml:15
+msgid ""
+"The requested controller could not be mapped to an existing controller class."
+msgstr ""
+"O controlador requisitados não pode ser mapeado a uma classe de controlador "
+"existente."
+
+#: ../view/error/404_debug.phtml:18
+msgid "The requested controller was not dispatchable."
+msgstr "O controlador requisitado não foi despachado."
+
+#: ../view/error/404_debug.phtml:21
+msgid "The requested URL could not be matched by routing."
+msgstr "A URL requisitada não pode ser encontrada em uma rota."
+
+#: ../view/error/404_debug.phtml:24
+msgid "We cannot determine at this time why a 404 was generated."
+msgstr "Não foi possível determinar o motivo do 404 ter ocorrido."
+
+#: ../view/error/404_debug.phtml:36
+msgid "Controller"
+msgstr "Controlador"
+
+#: ../view/error/404_debug.phtml:43
+#, php-format
+msgid "resolves to %s"
+msgstr "resolve como %s"
+
+#: ../view/error/404_debug.phtml:55 ../view/error/index.phtml:8
+#: ../view/error/index_debug.phtml:8
+msgid "Additional information"
+msgstr "Informação adicional"
+
+#: ../view/error/404_debug.phtml:58 ../view/error/404_debug.phtml:82
+#: ../view/error/index.phtml:11 ../view/error/index.phtml:35
+#: ../view/error/index_debug.phtml:11 ../view/error/index_debug.phtml:35
+msgid "File"
+msgstr "Arquivo"
+
+#: ../view/error/404_debug.phtml:62 ../view/error/404_debug.phtml:86
+#: ../view/error/index.phtml:15 ../view/error/index.phtml:39
+#: ../view/error/index_debug.phtml:15 ../view/error/index_debug.phtml:39
+msgid "Message"
+msgstr "Mensagem"
+
+#: ../view/error/404_debug.phtml:66 ../view/error/404_debug.phtml:90
+#: ../view/error/index.phtml:19 ../view/error/index.phtml:43
+#: ../view/error/index_debug.phtml:19 ../view/error/index_debug.phtml:43
+msgid "Stack trace"
+msgstr "Pilha de execução"
+
+#: ../view/error/404_debug.phtml:76 ../view/error/index.phtml:29
+#: ../view/error/index_debug.phtml:29
+msgid "Previous exceptions"
+msgstr "Exceções anteriores"
+
+#: ../view/error/404_debug.phtml:105 ../view/error/index.phtml:58
+#: ../view/error/index_debug.phtml:58
+msgid "No Exception available"
+msgstr "Nenhuma exceção disponível"
+
+#: ../view/error/index.phtml:1 ../view/error/index_debug.phtml:1
+msgid "An error occurred"
+msgstr "Ocorreu um erro"
+
+#: ../view/layout/layout.phtml:198
+msgid "home_menu"
+msgstr "HOME"
+
+#: ../view/layout/layout.phtml:201
+msgid "atecnogera_menu"
+msgstr "A TECNOGERA"
+
+#: ../view/layout/layout.phtml:203
+msgid "sobre_nos_menu"
+msgstr "SOBRE NÓS"
+
+#: ../view/layout/layout.phtml:204
+msgid "responsabilidade_social_menu"
+msgstr "RESPONSABILIDADE SOCIAL"
+
+#: ../view/layout/layout.phtml:205
+msgid "etica_condura_menu"
+msgstr "ÉTICA E CONDUTA"
+
+#: ../view/layout/layout.phtml:209
+msgid "solucoes_menu"
+msgstr "SOLUÇÕES"
+
+#: ../view/layout/layout.phtml:221
+msgid "segmentos_menu"
+msgstr "SEGMENTOS"
+
+#: ../view/layout/layout.phtml:224
+msgid "cases_menu"
+msgstr "CASES"
+
+#: ../view/layout/layout.phtml:227
+msgid "blog_menu"
+msgstr "BLOG"
+
+#: ../view/layout/layout.phtml:230
+msgid "contato_menu"
+msgstr "CONTATO"
+
+#: ../view/layout/layout.phtml:233
+msgid "carrera_menu"
+msgstr "CARREIRA"
+
+#: ../view/layout/layout.phtml:236
+msgid "orcamento_menu"
+msgstr "ORÇAMENTO"
+
+#: ../view/layout/layout.phtml:243
+msgid "atendimentocomercial_menu"
+msgstr "ATENDIMENTO COMERCIAL"
+
+#: ../view/layout/layout.phtml:287
+msgid "transformadores_acesorios_menu"
+msgstr "SUBESTAÇÕES MÓVEIS E TRANSFORMADORES"
+
+#: ../view/layout/layout.phtml:310
+msgid "busca_digite"
+msgstr "Digite aqui sua busca"
+
+#: ../view/layout/layout.phtml:325
+msgid "rodape_atecnogera_titulo"
+msgstr "A TECNOGERA"
+
+#: ../view/layout/layout.phtml:328
+msgid "rodape_atecnogera_sobrenos"
+msgstr "Sobre Nós"
+
+#: ../view/layout/layout.phtml:331
+msgid "rodape_atecnogera_responsabilidade"
+msgstr "Responsabilidade Social"
+
+#: ../view/layout/layout.phtml:334
+msgid "rodape_atecnogera_etica"
+msgstr "Código de Ética"
+
+#: ../view/layout/layout.phtml:339
+msgid "rodape_solucoes_titulo"
+msgstr "SOLUÇÕES"
+
+#: ../view/layout/layout.phtml:342
+msgid "rodape_solucoes_locacao"
+msgstr "Locação"
+
+#: ../view/layout/layout.phtml:345
+msgid "rodape_solucoes_geracao"
+msgstr "Geração"
+
+#: ../view/layout/layout.phtml:350
+msgid "rodape_solucoes_venda"
+msgstr "Venda"
+
+#: ../view/layout/layout.phtml:367
+msgid "rodape_cases"
+msgstr "CASES"
+
+#: ../view/layout/layout.phtml:368
+msgid "rodape_solucoes_blog"
+msgstr "BLOG"
+
+#: ../view/layout/layout.phtml:369
+msgid "rodape_solucoes_contato"
+msgstr "CONTATO"
+
+#: ../view/layout/layout.phtml:370
+msgid "rodape_atendimento"
+msgstr " Atendimento Comercial: 0800 772 1601"
+
+#: ../view/layout/layout.phtml:371
+msgid "rodape_email"
+msgstr " locacao@tecnogera.com.br"
+
+#~ msgid "acessorios_formulario_7"
+#~ msgstr "Segmento"
+
+#~ msgid "acessorios_formulario_8"
+#~ msgstr "Departamento"
+
+#~ msgid "acessorios_formulario_9"
+#~ msgstr "Produto de interesse"
+
+#~ msgid "potencia_aquecimento_tabela_titulo"
+#~ msgstr "POTÊNCIAS DISPONÍVEIS PARA LOCAÇÃO"
+
+#~ msgid "locacao"
+#~ msgstr "Soluções temporárias para diversos segmentos de mercado. "
+
+#~ msgid "Home"
+#~ msgstr "Página Inicial"
+
+#~ msgid "All rights reserved."
+#~ msgstr "Todos os direitos reservados."
+
+#~ msgid "Welcome to %sZend Framework 2%s"
+#~ msgstr "Bem vindo ao %sZend Framework 2%s"
+
+#~ msgid ""
+#~ "Congratulations! You have successfully installed the %sZF2 Skeleton "
+#~ "Application%s. You are currently running Zend Framework version %s. This "
+#~ "skeleton can serve as a simple starting point for you to begin building "
+#~ "your application on ZF2."
+#~ msgstr ""
+#~ "Parabéns! Você instalou a %sAplicação Skeleton ZF2%s com sucesso. Você "
+#~ "está usando a versão %s do Zend Framework. Este esqueleto serve "
+#~ "simplesmente como um ponto de inicio na construção da sua aplicação ZF2."
+
+#~ msgid "Fork Zend Framework 2 on GitHub"
+#~ msgstr "Replique Zend Framework 2 no GitHub"
+
+#~ msgid "Follow Development"
+#~ msgstr "Acompanhe o Desenvolvimento"
+
+#~ msgid ""
+#~ "Zend Framework 2 is under active development. If you are interested in "
+#~ "following the development of ZF2, there is a special ZF2 portal on the "
+#~ "official Zend Framework website which provides links to the ZF2 %swiki%s, "
+#~ "%sdev blog%s, %sissue tracker%s, and much more. This is a great resource "
+#~ "for staying up to date with the latest developments!"
+#~ msgstr ""
+#~ "Zend Framework 2 está sob desenvolvimento ativo. Se vocês está "
+#~ "interessado em acompanhar o desenvolvimento do ZF2, tem um portal ZF2 "
+#~ "especial no site oficial do Zend Framework que possui links para ZF2 "
+#~ "%swiki%s, %sdev blog%s, %sissue tracker%s, dentre outros. Este é um "
+#~ "excelente material para se manter atualizado com os últimos "
+#~ "desenvolvimentos!"
+
+#~ msgid "ZF2 Development Portal"
+#~ msgstr "Portal de Desenvolvimento do ZF2"
+
+#~ msgid "Discover Modules"
+#~ msgstr "Descubra Módulos"
+
+#~ msgid ""
+#~ "The community is working on developing a community site to serve as a "
+#~ "repository and gallery for ZF2 modules. The project is available %son "
+#~ "GitHub%s. The site is currently live and currently contains a list of "
+#~ "some of the modules already available for ZF2."
+#~ msgstr ""
+#~ "A Comunidade está trabalhando em desenvolver um site comunitário para "
+#~ "servir como repositório e galeria de módulos ZF2. O projeto estará "
+#~ "disponível %sem breve no GitHub%s. O site já está online e atualmente "
+#~ "contém uma lista de alguns dos módulos já disponíveis para ZF2."
+
+#~ msgid "Explore ZF2 Modules"
+#~ msgstr "Explore Módulos ZF2"
+
+#~ msgid "Help &amp; Support"
+#~ msgstr "Ajuda &amp; Suporte"
+
+#~ msgid ""
+#~ "If you need any help or support while developing with ZF2, you may reach "
+#~ "us via IRC: %s#zftalk on Freenode%s. We'd love to hear any questions or "
+#~ "feedback you may have regarding the beta releases. Alternatively, you may "
+#~ "subscribe and post questions to the %smailing lists%s."
+#~ msgstr ""
+#~ "Caso você precise de ajuda ou suporte enquanto desenvolve com ZF2, pode "
+#~ "nos encontrar pelo %s#zftalk on Freenode%s. Vamos gostar muito de ouvir "
+#~ "perguntas e opiniões que você possa ter em relação às versões beta. "
+#~ "Também, você pode se registrar e enviar perguntar para a %slista de e-mail"
+#~ "%s."
+
+#~ msgid "Ping us on IRC"
+#~ msgstr "Nos escreva no IRC"
+
+#~ msgid "Exception"
+#~ msgstr "Exceção"

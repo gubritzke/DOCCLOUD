@@ -1,0 +1,140 @@
+{"module":"application","controller":"index","action":"index","get":[],"post":[],"type":"DEBUG","message":"acesso","page":"\/","date":"2018-10-08 11:19:01","ip":"::1"}
+{"type":"ERROR","message":"retorno da fun\u00e7\u00e3o error_get_last()","file":"D:\\Programas\\Xamp\\htdocs\\GOOVER\\vendor\\tropaframework\\Log\\Log.php","line":55,"page":"\/","date":"2018-10-08 11:19:01","ip":"::1"}
+{"module":"application","controller":"index","action":"index","get":[],"post":[],"type":"DEBUG","message":"acesso","page":"\/","date":"2018-10-08 11:23:31","ip":"::1"}
+{"type":"ERROR","message":"retorno da fun\u00e7\u00e3o error_get_last()","file":"D:\\Programas\\Xamp\\htdocs\\GOOVER\\vendor\\tropaframework\\Log\\Log.php","line":55,"page":"\/","date":"2018-10-08 11:23:31","ip":"::1"}
+{"module":"application","controller":"index","action":"index","get":[],"post":[],"type":"DEBUG","message":"acesso","page":"\/","date":"2018-10-08 11:23:34","ip":"::1"}
+{"type":"ERROR","message":"retorno da fun\u00e7\u00e3o error_get_last()","file":"D:\\Programas\\Xamp\\htdocs\\GOOVER\\vendor\\tropaframework\\Log\\Log.php","line":55,"page":"\/","date":"2018-10-08 11:23:34","ip":"::1"}
+{"module":"application","controller":"index","action":"index","get":[],"post":[],"type":"DEBUG","message":"acesso","page":"\/","date":"2018-10-08 11:24:42","ip":"::1"}
+{"type":"ERROR","message":"retorno da fun\u00e7\u00e3o error_get_last()","file":"D:\\Programas\\Xamp\\htdocs\\GOOVER\\vendor\\tropaframework\\Log\\Log.php","line":55,"page":"\/","date":"2018-10-08 11:24:42","ip":"::1"}
+{"module":"application","controller":"index","action":"index","get":[],"post":[],"type":"DEBUG","message":"acesso","page":"\/","date":"2018-10-08 11:25:54","ip":"::1"}
+{"type":"ERROR","message":"retorno da fun\u00e7\u00e3o error_get_last()","file":"D:\\Programas\\Xamp\\htdocs\\GOOVER\\vendor\\tropaframework\\Log\\Log.php","line":55,"page":"\/","date":"2018-10-08 11:25:54","ip":"::1"}
+{"module":"application","controller":"index","action":"index","get":[],"post":[],"type":"DEBUG","message":"acesso","page":"\/","date":"2018-10-08 11:26:02","ip":"::1"}
+{"type":"ERROR","message":"retorno da fun\u00e7\u00e3o error_get_last()","file":"D:\\Programas\\Xamp\\htdocs\\GOOVER\\vendor\\tropaframework\\Log\\Log.php","line":55,"page":"\/","date":"2018-10-08 11:26:02","ip":"::1"}
+{"module":"application","controller":"index","action":"index","get":[],"post":[],"type":"DEBUG","message":"acesso","page":"\/","date":"2018-10-08 11:26:34","ip":"::1"}
+{"type":"ERROR","message":"retorno da fun\u00e7\u00e3o error_get_last()","file":"D:\\Programas\\Xamp\\htdocs\\GOOVER\\vendor\\tropaframework\\Log\\Log.php","line":55,"page":"\/","date":"2018-10-08 11:26:34","ip":"::1"}
+{"module":"application","controller":"index","action":"index","get":[],"post":[],"type":"DEBUG","message":"acesso","page":"\/","date":"2018-10-08 11:26:36","ip":"::1"}
+{"type":"ERROR","message":"retorno da fun\u00e7\u00e3o error_get_last()","file":"D:\\Programas\\Xamp\\htdocs\\GOOVER\\vendor\\tropaframework\\Log\\Log.php","line":55,"page":"\/","date":"2018-10-08 11:26:36","ip":"::1"}
+{"module":"application","controller":"index","action":"index","get":[],"post":[],"type":"DEBUG","message":"acesso","page":"\/","date":"2018-10-08 11:26:45","ip":"::1"}
+{"type":"ERROR","message":"retorno da fun\u00e7\u00e3o error_get_last()","file":"D:\\Programas\\Xamp\\htdocs\\GOOVER\\vendor\\tropaframework\\Log\\Log.php","line":55,"page":"\/","date":"2018-10-08 11:26:45","ip":"::1"}
+{"module":"application","controller":"index","action":"index","get":[],"post":[],"type":"DEBUG","message":"acesso","page":"\/","date":"2018-10-08 11:26:49","ip":"::1"}
+{"type":"ERROR","message":"retorno da fun\u00e7\u00e3o error_get_last()","file":"D:\\Programas\\Xamp\\htdocs\\GOOVER\\vendor\\tropaframework\\Log\\Log.php","line":55,"page":"\/","date":"2018-10-08 11:26:49","ip":"::1"}
+{"module":"application","controller":"index","action":"index","get":[],"post":[],"type":"DEBUG","message":"acesso","page":"\/","date":"2018-10-08 11:26:50","ip":"::1"}
+{"type":"ERROR","message":"retorno da fun\u00e7\u00e3o error_get_last()","file":"D:\\Programas\\Xamp\\htdocs\\GOOVER\\vendor\\tropaframework\\Log\\Log.php","line":55,"page":"\/","date":"2018-10-08 11:26:50","ip":"::1"}
+{"module":"application","controller":"index","action":"index","get":[],"post":[],"type":"DEBUG","message":"acesso","page":"\/","date":"2018-10-08 11:26:50","ip":"::1"}
+{"type":"ERROR","message":"retorno da fun\u00e7\u00e3o error_get_last()","file":"D:\\Programas\\Xamp\\htdocs\\GOOVER\\vendor\\tropaframework\\Log\\Log.php","line":55,"page":"\/","date":"2018-10-08 11:26:50","ip":"::1"}
+{"module":"application","controller":"index","action":"index","get":[],"post":[],"type":"DEBUG","message":"acesso","page":"\/","date":"2018-10-08 11:26:51","ip":"::1"}
+{"type":"ERROR","message":"retorno da fun\u00e7\u00e3o error_get_last()","file":"D:\\Programas\\Xamp\\htdocs\\GOOVER\\vendor\\tropaframework\\Log\\Log.php","line":55,"page":"\/","date":"2018-10-08 11:26:51","ip":"::1"}
+{"module":"application","controller":"index","action":"index","get":[],"post":[],"type":"DEBUG","message":"acesso","page":"\/","date":"2018-10-08 11:27:21","ip":"::1"}
+{"type":"ERROR","message":"retorno da fun\u00e7\u00e3o error_get_last()","file":"D:\\Programas\\Xamp\\htdocs\\GOOVER\\vendor\\tropaframework\\Log\\Log.php","line":55,"page":"\/","date":"2018-10-08 11:27:21","ip":"::1"}
+{"module":"application","controller":"index","action":"index","get":[],"post":[],"type":"DEBUG","message":"acesso","page":"\/","date":"2018-10-08 11:27:28","ip":"::1"}
+{"type":"ERROR","message":"retorno da fun\u00e7\u00e3o error_get_last()","file":"D:\\Programas\\Xamp\\htdocs\\GOOVER\\vendor\\tropaframework\\Log\\Log.php","line":55,"page":"\/","date":"2018-10-08 11:27:28","ip":"::1"}
+{"module":"application","controller":"index","action":"index","get":[],"post":[],"type":"DEBUG","message":"acesso","page":"\/","date":"2018-10-08 11:27:47","ip":"::1"}
+{"type":"ERROR","message":"retorno da fun\u00e7\u00e3o error_get_last()","file":"D:\\Programas\\Xamp\\htdocs\\GOOVER\\vendor\\tropaframework\\Log\\Log.php","line":55,"page":"\/","date":"2018-10-08 11:27:47","ip":"::1"}
+{"module":"application","controller":"index","action":"index","get":[],"post":[],"type":"DEBUG","message":"acesso","page":"\/","date":"2018-10-08 11:28:01","ip":"::1"}
+{"type":"ERROR","message":"retorno da fun\u00e7\u00e3o error_get_last()","file":"D:\\Programas\\Xamp\\htdocs\\GOOVER\\vendor\\tropaframework\\Log\\Log.php","line":55,"page":"\/","date":"2018-10-08 11:28:01","ip":"::1"}
+{"module":"application","controller":"index","action":"index","get":[],"post":[],"type":"DEBUG","message":"acesso","page":"\/","date":"2018-10-08 11:28:08","ip":"::1"}
+{"type":"ERROR","message":"retorno da fun\u00e7\u00e3o error_get_last()","file":"D:\\Programas\\Xamp\\htdocs\\GOOVER\\vendor\\tropaframework\\Log\\Log.php","line":55,"page":"\/","date":"2018-10-08 11:28:08","ip":"::1"}
+{"module":"application","controller":"index","action":"index","get":[],"post":[],"type":"DEBUG","message":"acesso","page":"\/","date":"2018-10-08 11:34:14","ip":"::1"}
+{"type":"ERROR","message":"retorno da fun\u00e7\u00e3o error_get_last()","file":"D:\\Programas\\Xamp\\htdocs\\GOOVER\\vendor\\tropaframework\\Log\\Log.php","line":55,"page":"\/","date":"2018-10-08 11:34:15","ip":"::1"}
+{"module":"application","controller":"index","action":"index","get":[],"post":[],"type":"DEBUG","message":"acesso","page":"\/","date":"2018-10-08 11:37:05","ip":"::1"}
+{"type":"ERROR","message":"retorno da fun\u00e7\u00e3o error_get_last()","file":"D:\\Programas\\Xamp\\htdocs\\GOOVER\\vendor\\tropaframework\\Log\\Log.php","line":55,"page":"\/","date":"2018-10-08 11:37:05","ip":"::1"}
+{"module":"application","controller":"index","action":"index","get":[],"post":[],"type":"DEBUG","message":"acesso","page":"\/","date":"2018-10-08 11:37:19","ip":"::1"}
+{"type":"ERROR","message":"retorno da fun\u00e7\u00e3o error_get_last()","file":"D:\\Programas\\Xamp\\htdocs\\GOOVER\\vendor\\tropaframework\\Log\\Log.php","line":55,"page":"\/","date":"2018-10-08 11:37:19","ip":"::1"}
+{"module":"application","controller":"index","action":"index","get":[],"post":[],"type":"DEBUG","message":"acesso","page":"\/","date":"2018-10-08 11:40:35","ip":"::1"}
+{"type":"ERROR","message":"retorno da fun\u00e7\u00e3o error_get_last()","file":"D:\\Programas\\Xamp\\htdocs\\GOOVER\\vendor\\tropaframework\\Log\\Log.php","line":55,"page":"\/","date":"2018-10-08 11:40:35","ip":"::1"}
+{"module":"application","controller":"index","action":"index","get":[],"post":[],"type":"DEBUG","message":"acesso","page":"\/","date":"2018-10-08 11:40:54","ip":"::1"}
+{"type":"ERROR","message":"retorno da fun\u00e7\u00e3o error_get_last()","file":"D:\\Programas\\Xamp\\htdocs\\GOOVER\\vendor\\tropaframework\\Log\\Log.php","line":55,"page":"\/","date":"2018-10-08 11:40:54","ip":"::1"}
+{"module":"application","controller":"index","action":"index","get":[],"post":[],"type":"DEBUG","message":"acesso","page":"\/","date":"2018-10-08 11:40:58","ip":"::1"}
+{"type":"ERROR","message":"retorno da fun\u00e7\u00e3o error_get_last()","file":"D:\\Programas\\Xamp\\htdocs\\GOOVER\\vendor\\tropaframework\\Log\\Log.php","line":55,"page":"\/","date":"2018-10-08 11:40:58","ip":"::1"}
+{"module":"application","controller":"index","action":"index","get":[],"post":[],"type":"DEBUG","message":"acesso","page":"\/","date":"2018-10-08 14:59:50","ip":"::1"}
+{"type":"ERROR","message":"retorno da fun\u00e7\u00e3o error_get_last()","file":"D:\\Programas\\Xamp\\htdocs\\GOOVER\\vendor\\tropaframework\\Log\\Log.php","line":55,"page":"\/","date":"2018-10-08 14:59:50","ip":"::1"}
+{"module":"application","controller":"index","action":"index","get":[],"post":[],"type":"DEBUG","message":"acesso","page":"\/","date":"2018-10-08 15:11:32","ip":"::1"}
+{"type":"ERROR","message":"retorno da fun\u00e7\u00e3o error_get_last()","file":"D:\\Programas\\Xamp\\htdocs\\GOOVER\\vendor\\tropaframework\\Log\\Log.php","line":55,"page":"\/","date":"2018-10-08 15:11:32","ip":"::1"}
+{"module":"application","controller":"index","action":"index","get":[],"post":[],"type":"DEBUG","message":"acesso","page":"\/","date":"2018-10-08 15:12:57","ip":"::1"}
+{"type":"ERROR","message":"retorno da fun\u00e7\u00e3o error_get_last()","file":"D:\\Programas\\Xamp\\htdocs\\GOOVER\\vendor\\tropaframework\\Log\\Log.php","line":55,"page":"\/","date":"2018-10-08 15:12:57","ip":"::1"}
+{"module":"application","controller":"index","action":"index","get":[],"post":[],"type":"DEBUG","message":"acesso","page":"\/","date":"2018-10-08 15:12:59","ip":"::1"}
+{"type":"ERROR","message":"retorno da fun\u00e7\u00e3o error_get_last()","file":"D:\\Programas\\Xamp\\htdocs\\GOOVER\\vendor\\tropaframework\\Log\\Log.php","line":55,"page":"\/","date":"2018-10-08 15:12:59","ip":"::1"}
+{"module":"application","controller":"index","action":"index","get":[],"post":[],"type":"DEBUG","message":"acesso","page":"\/","date":"2018-10-08 15:14:58","ip":"::1"}
+{"type":"ERROR","message":"retorno da fun\u00e7\u00e3o error_get_last()","file":"D:\\Programas\\Xamp\\htdocs\\GOOVER\\vendor\\tropaframework\\Log\\Log.php","line":55,"page":"\/","date":"2018-10-08 15:14:58","ip":"::1"}
+{"module":"application","controller":"index","action":"index","get":[],"post":[],"type":"DEBUG","message":"acesso","page":"\/","date":"2018-10-08 15:15:13","ip":"::1"}
+{"type":"ERROR","message":"retorno da fun\u00e7\u00e3o error_get_last()","file":"D:\\Programas\\Xamp\\htdocs\\GOOVER\\vendor\\tropaframework\\Log\\Log.php","line":55,"page":"\/","date":"2018-10-08 15:15:13","ip":"::1"}
+{"module":"application","controller":"index","action":"index","get":[],"post":[],"type":"DEBUG","message":"acesso","page":"\/","date":"2018-10-08 15:19:19","ip":"::1"}
+{"type":"ERROR","message":"retorno da fun\u00e7\u00e3o error_get_last()","file":"D:\\Programas\\Xamp\\htdocs\\GOOVER\\vendor\\tropaframework\\Log\\Log.php","line":55,"page":"\/","date":"2018-10-08 15:19:19","ip":"::1"}
+{"module":"application","controller":"index","action":"index","get":[],"post":[],"type":"DEBUG","message":"acesso","page":"\/","date":"2018-10-08 15:23:11","ip":"::1"}
+{"type":"ERROR","message":"retorno da fun\u00e7\u00e3o error_get_last()","file":"D:\\Programas\\Xamp\\htdocs\\GOOVER\\vendor\\tropaframework\\Log\\Log.php","line":55,"page":"\/","date":"2018-10-08 15:23:11","ip":"::1"}
+{"module":"application","controller":"index","action":"index","get":[],"post":[],"type":"DEBUG","message":"acesso","page":"\/","date":"2018-10-08 15:25:52","ip":"::1"}
+{"type":"ERROR","message":"retorno da fun\u00e7\u00e3o error_get_last()","file":"D:\\Programas\\Xamp\\htdocs\\GOOVER\\vendor\\tropaframework\\Log\\Log.php","line":55,"page":"\/","date":"2018-10-08 15:25:52","ip":"::1"}
+{"module":"application","controller":"index","action":"index","get":[],"post":[],"type":"DEBUG","message":"acesso","page":"\/","date":"2018-10-08 15:27:00","ip":"::1"}
+{"type":"ERROR","message":"retorno da fun\u00e7\u00e3o error_get_last()","file":"D:\\Programas\\Xamp\\htdocs\\GOOVER\\vendor\\tropaframework\\Log\\Log.php","line":55,"page":"\/","date":"2018-10-08 15:27:00","ip":"::1"}
+{"module":"application","controller":"index","action":"index","get":[],"post":[],"type":"DEBUG","message":"acesso","page":"\/","date":"2018-10-08 15:27:14","ip":"::1"}
+{"type":"ERROR","message":"retorno da fun\u00e7\u00e3o error_get_last()","file":"D:\\Programas\\Xamp\\htdocs\\GOOVER\\vendor\\tropaframework\\Log\\Log.php","line":55,"page":"\/","date":"2018-10-08 15:27:14","ip":"::1"}
+{"module":"application","controller":"index","action":"index","get":[],"post":[],"type":"DEBUG","message":"acesso","page":"\/","date":"2018-10-08 15:27:36","ip":"::1"}
+{"type":"ERROR","message":"retorno da fun\u00e7\u00e3o error_get_last()","file":"D:\\Programas\\Xamp\\htdocs\\GOOVER\\vendor\\tropaframework\\Log\\Log.php","line":55,"page":"\/","date":"2018-10-08 15:27:36","ip":"::1"}
+{"module":"application","controller":"index","action":"index","get":[],"post":[],"type":"DEBUG","message":"acesso","page":"\/","date":"2018-10-08 15:39:39","ip":"::1"}
+{"type":"ERROR","message":"retorno da fun\u00e7\u00e3o error_get_last()","file":"D:\\Programas\\Xamp\\htdocs\\GOOVER\\vendor\\tropaframework\\Log\\Log.php","line":55,"page":"\/","date":"2018-10-08 15:39:39","ip":"::1"}
+{"module":"application","controller":"index","action":"index","get":[],"post":[],"type":"DEBUG","message":"acesso","page":"\/","date":"2018-10-08 15:40:06","ip":"::1"}
+{"type":"ERROR","message":"retorno da fun\u00e7\u00e3o error_get_last()","file":"D:\\Programas\\Xamp\\htdocs\\GOOVER\\vendor\\tropaframework\\Log\\Log.php","line":55,"page":"\/","date":"2018-10-08 15:40:06","ip":"::1"}
+{"module":"application","controller":"index","action":"index","get":[],"post":[],"type":"DEBUG","message":"acesso","page":"\/","date":"2018-10-08 15:40:17","ip":"::1"}
+{"type":"ERROR","message":"retorno da fun\u00e7\u00e3o error_get_last()","file":"D:\\Programas\\Xamp\\htdocs\\GOOVER\\vendor\\tropaframework\\Log\\Log.php","line":55,"page":"\/","date":"2018-10-08 15:40:17","ip":"::1"}
+{"module":"application","controller":"index","action":"index","get":[],"post":[],"type":"DEBUG","message":"acesso","page":"\/","date":"2018-10-08 15:40:46","ip":"::1"}
+{"type":"ERROR","message":"retorno da fun\u00e7\u00e3o error_get_last()","file":"D:\\Programas\\Xamp\\htdocs\\GOOVER\\vendor\\tropaframework\\Log\\Log.php","line":55,"page":"\/","date":"2018-10-08 15:40:46","ip":"::1"}
+{"module":"application","controller":"index","action":"index","get":[],"post":[],"type":"DEBUG","message":"acesso","page":"\/","date":"2018-10-08 16:13:20","ip":"::1"}
+{"type":"ERROR","message":"retorno da fun\u00e7\u00e3o error_get_last()","file":"D:\\Programas\\Xamp\\htdocs\\GOOVER\\vendor\\tropaframework\\Log\\Log.php","line":55,"page":"\/","date":"2018-10-08 16:13:20","ip":"::1"}
+{"module":"application","controller":"index","action":"index","get":[],"post":[],"type":"DEBUG","message":"acesso","page":"\/","date":"2018-10-08 16:25:02","ip":"::1"}
+{"type":"ERROR","message":"retorno da fun\u00e7\u00e3o error_get_last()","file":"D:\\Programas\\Xamp\\htdocs\\GOOVER\\vendor\\tropaframework\\Log\\Log.php","line":55,"page":"\/","date":"2018-10-08 16:25:02","ip":"::1"}
+{"module":"application","controller":"index","action":"index","get":[],"post":[],"type":"DEBUG","message":"acesso","page":"\/","date":"2018-10-08 16:25:29","ip":"::1"}
+{"type":"ERROR","message":"retorno da fun\u00e7\u00e3o error_get_last()","file":"D:\\Programas\\Xamp\\htdocs\\GOOVER\\vendor\\tropaframework\\Log\\Log.php","line":55,"page":"\/","date":"2018-10-08 16:25:29","ip":"::1"}
+{"module":"application","controller":"index","action":"index","get":[],"post":[],"type":"DEBUG","message":"acesso","page":"\/","date":"2018-10-08 16:25:38","ip":"::1"}
+{"type":"ERROR","message":"retorno da fun\u00e7\u00e3o error_get_last()","file":"D:\\Programas\\Xamp\\htdocs\\GOOVER\\vendor\\tropaframework\\Log\\Log.php","line":55,"page":"\/","date":"2018-10-08 16:25:38","ip":"::1"}
+{"module":"application","controller":"index","action":"index","get":[],"post":[],"type":"DEBUG","message":"acesso","page":"\/","date":"2018-10-08 16:25:49","ip":"::1"}
+{"type":"ERROR","message":"retorno da fun\u00e7\u00e3o error_get_last()","file":"D:\\Programas\\Xamp\\htdocs\\GOOVER\\vendor\\tropaframework\\Log\\Log.php","line":55,"page":"\/","date":"2018-10-08 16:25:49","ip":"::1"}
+{"module":"application","controller":"index","action":"index","get":[],"post":[],"type":"DEBUG","message":"acesso","page":"\/","date":"2018-10-08 16:26:34","ip":"::1"}
+{"type":"ERROR","message":"retorno da fun\u00e7\u00e3o error_get_last()","file":"D:\\Programas\\Xamp\\htdocs\\GOOVER\\vendor\\tropaframework\\Log\\Log.php","line":55,"page":"\/","date":"2018-10-08 16:26:34","ip":"::1"}
+{"module":"application","controller":"index","action":"index","get":[],"post":[],"type":"DEBUG","message":"acesso","page":"\/","date":"2018-10-08 16:26:51","ip":"::1"}
+{"type":"ERROR","message":"retorno da fun\u00e7\u00e3o error_get_last()","file":"D:\\Programas\\Xamp\\htdocs\\GOOVER\\vendor\\tropaframework\\Log\\Log.php","line":55,"page":"\/","date":"2018-10-08 16:26:51","ip":"::1"}
+{"module":"application","controller":"index","action":"index","get":[],"post":[],"type":"DEBUG","message":"acesso","page":"\/","date":"2018-10-08 16:26:56","ip":"::1"}
+{"type":"ERROR","message":"retorno da fun\u00e7\u00e3o error_get_last()","file":"D:\\Programas\\Xamp\\htdocs\\GOOVER\\vendor\\tropaframework\\Log\\Log.php","line":55,"page":"\/","date":"2018-10-08 16:26:56","ip":"::1"}
+{"module":"application","controller":"index","action":"index","get":[],"post":[],"type":"DEBUG","message":"acesso","page":"\/","date":"2018-10-08 16:32:26","ip":"::1"}
+{"type":"ERROR","message":"retorno da fun\u00e7\u00e3o error_get_last()","file":"D:\\Programas\\Xamp\\htdocs\\GOOVER\\vendor\\tropaframework\\Log\\Log.php","line":55,"page":"\/","date":"2018-10-08 16:32:26","ip":"::1"}
+{"module":"application","controller":"index","action":"index","get":[],"post":[],"type":"DEBUG","message":"acesso","page":"\/","date":"2018-10-08 16:32:54","ip":"::1"}
+{"type":"ERROR","message":"retorno da fun\u00e7\u00e3o error_get_last()","file":"D:\\Programas\\Xamp\\htdocs\\GOOVER\\vendor\\tropaframework\\Log\\Log.php","line":55,"page":"\/","date":"2018-10-08 16:32:54","ip":"::1"}
+{"module":"application","controller":"index","action":"index","get":[],"post":[],"type":"DEBUG","message":"acesso","page":"\/","date":"2018-10-08 16:33:15","ip":"::1"}
+{"type":"ERROR","message":"retorno da fun\u00e7\u00e3o error_get_last()","file":"D:\\Programas\\Xamp\\htdocs\\GOOVER\\vendor\\tropaframework\\Log\\Log.php","line":55,"page":"\/","date":"2018-10-08 16:33:15","ip":"::1"}
+{"module":"application","controller":"index","action":"index","get":[],"post":[],"type":"DEBUG","message":"acesso","page":"\/","date":"2018-10-08 16:34:15","ip":"::1"}
+{"type":"ERROR","message":"retorno da fun\u00e7\u00e3o error_get_last()","file":"D:\\Programas\\Xamp\\htdocs\\GOOVER\\vendor\\tropaframework\\Log\\Log.php","line":55,"page":"\/","date":"2018-10-08 16:34:15","ip":"::1"}
+{"module":"application","controller":"index","action":"index","get":[],"post":[],"type":"DEBUG","message":"acesso","page":"\/","date":"2018-10-08 16:34:36","ip":"::1"}
+{"type":"ERROR","message":"retorno da fun\u00e7\u00e3o error_get_last()","file":"D:\\Programas\\Xamp\\htdocs\\GOOVER\\vendor\\tropaframework\\Log\\Log.php","line":55,"page":"\/","date":"2018-10-08 16:34:36","ip":"::1"}
+{"module":"application","controller":"index","action":"index","get":[],"post":[],"type":"DEBUG","message":"acesso","page":"\/","date":"2018-10-08 16:46:18","ip":"::1"}
+{"type":"ERROR","message":"retorno da fun\u00e7\u00e3o error_get_last()","file":"D:\\Programas\\Xamp\\htdocs\\GOOVER\\vendor\\tropaframework\\Log\\Log.php","line":55,"page":"\/","date":"2018-10-08 16:46:18","ip":"::1"}
+{"module":"application","controller":"index","action":"index","get":[],"post":[],"type":"DEBUG","message":"acesso","page":"\/","date":"2018-10-08 16:46:34","ip":"::1"}
+{"type":"ERROR","message":"retorno da fun\u00e7\u00e3o error_get_last()","file":"D:\\Programas\\Xamp\\htdocs\\GOOVER\\vendor\\tropaframework\\Log\\Log.php","line":55,"page":"\/","date":"2018-10-08 16:46:34","ip":"::1"}
+{"module":"application","controller":"index","action":"index","get":[],"post":[],"type":"DEBUG","message":"acesso","page":"\/","date":"2018-10-08 16:48:08","ip":"::1"}
+{"type":"ERROR","message":"retorno da fun\u00e7\u00e3o error_get_last()","file":"D:\\Programas\\Xamp\\htdocs\\GOOVER\\vendor\\tropaframework\\Log\\Log.php","line":55,"page":"\/","date":"2018-10-08 16:48:08","ip":"::1"}
+{"module":"application","controller":"index","action":"index","get":[],"post":[],"type":"DEBUG","message":"acesso","page":"\/","date":"2018-10-08 16:48:40","ip":"::1"}
+{"type":"ERROR","message":"retorno da fun\u00e7\u00e3o error_get_last()","file":"D:\\Programas\\Xamp\\htdocs\\GOOVER\\vendor\\tropaframework\\Log\\Log.php","line":55,"page":"\/","date":"2018-10-08 16:48:40","ip":"::1"}
+{"module":"application","controller":"index","action":"index","get":[],"post":[],"type":"DEBUG","message":"acesso","page":"\/","date":"2018-10-08 16:49:02","ip":"::1"}
+{"type":"ERROR","message":"retorno da fun\u00e7\u00e3o error_get_last()","file":"D:\\Programas\\Xamp\\htdocs\\GOOVER\\vendor\\tropaframework\\Log\\Log.php","line":55,"page":"\/","date":"2018-10-08 16:49:02","ip":"::1"}
+{"module":"application","controller":"index","action":"index","get":[],"post":[],"type":"DEBUG","message":"acesso","page":"\/","date":"2018-10-08 16:49:11","ip":"::1"}
+{"type":"ERROR","message":"retorno da fun\u00e7\u00e3o error_get_last()","file":"D:\\Programas\\Xamp\\htdocs\\GOOVER\\vendor\\tropaframework\\Log\\Log.php","line":55,"page":"\/","date":"2018-10-08 16:49:11","ip":"::1"}
+{"module":"application","controller":"index","action":"index","get":[],"post":[],"type":"DEBUG","message":"acesso","page":"\/","date":"2018-10-08 16:49:25","ip":"::1"}
+{"type":"ERROR","message":"retorno da fun\u00e7\u00e3o error_get_last()","file":"D:\\Programas\\Xamp\\htdocs\\GOOVER\\vendor\\tropaframework\\Log\\Log.php","line":55,"page":"\/","date":"2018-10-08 16:49:25","ip":"::1"}
+{"module":"application","controller":"index","action":"index","get":[],"post":[],"type":"DEBUG","message":"acesso","page":"\/","date":"2018-10-08 16:58:49","ip":"::1"}
+{"type":"ERROR","message":"retorno da fun\u00e7\u00e3o error_get_last()","file":"D:\\Programas\\Xamp\\htdocs\\GOOVER\\vendor\\tropaframework\\Log\\Log.php","line":55,"page":"\/","date":"2018-10-08 16:58:49","ip":"::1"}
+{"module":"application","controller":"index","action":"index","get":[],"post":[],"type":"DEBUG","message":"acesso","page":"\/","date":"2018-10-08 16:58:51","ip":"::1"}
+{"type":"ERROR","message":"retorno da fun\u00e7\u00e3o error_get_last()","file":"D:\\Programas\\Xamp\\htdocs\\GOOVER\\vendor\\tropaframework\\Log\\Log.php","line":55,"page":"\/","date":"2018-10-08 16:58:51","ip":"::1"}
+{"module":"application","controller":"index","action":"index","get":[],"post":[],"type":"DEBUG","message":"acesso","page":"\/","date":"2018-10-08 16:58:53","ip":"::1"}
+{"type":"ERROR","message":"retorno da fun\u00e7\u00e3o error_get_last()","file":"D:\\Programas\\Xamp\\htdocs\\GOOVER\\vendor\\tropaframework\\Log\\Log.php","line":55,"page":"\/","date":"2018-10-08 16:58:53","ip":"::1"}
+{"module":"application","controller":"index","action":"index","get":[],"post":[],"type":"DEBUG","message":"acesso","page":"\/","date":"2018-10-08 16:59:05","ip":"::1"}
+{"type":"ERROR","message":"retorno da fun\u00e7\u00e3o error_get_last()","file":"D:\\Programas\\Xamp\\htdocs\\GOOVER\\vendor\\tropaframework\\Log\\Log.php","line":55,"page":"\/","date":"2018-10-08 16:59:05","ip":"::1"}
+{"module":"application","controller":"index","action":"index","get":[],"post":[],"type":"DEBUG","message":"acesso","page":"\/","date":"2018-10-08 16:59:14","ip":"::1"}
+{"type":"ERROR","message":"retorno da fun\u00e7\u00e3o error_get_last()","file":"D:\\Programas\\Xamp\\htdocs\\GOOVER\\vendor\\tropaframework\\Log\\Log.php","line":55,"page":"\/","date":"2018-10-08 16:59:14","ip":"::1"}
+{"module":"application","controller":"index","action":"index","get":[],"post":[],"type":"DEBUG","message":"acesso","page":"\/","date":"2018-10-08 16:59:15","ip":"::1"}
+{"type":"ERROR","message":"retorno da fun\u00e7\u00e3o error_get_last()","file":"D:\\Programas\\Xamp\\htdocs\\GOOVER\\vendor\\tropaframework\\Log\\Log.php","line":55,"page":"\/","date":"2018-10-08 16:59:15","ip":"::1"}
+{"module":"application","controller":"index","action":"index","get":[],"post":[],"type":"DEBUG","message":"acesso","page":"\/","date":"2018-10-08 16:59:16","ip":"::1"}
+{"type":"ERROR","message":"retorno da fun\u00e7\u00e3o error_get_last()","file":"D:\\Programas\\Xamp\\htdocs\\GOOVER\\vendor\\tropaframework\\Log\\Log.php","line":55,"page":"\/","date":"2018-10-08 16:59:16","ip":"::1"}
+{"module":"application","controller":"index","action":"index","get":[],"post":[],"type":"DEBUG","message":"acesso","page":"\/","date":"2018-10-08 16:59:45","ip":"::1"}
+{"type":"ERROR","message":"retorno da fun\u00e7\u00e3o error_get_last()","file":"D:\\Programas\\Xamp\\htdocs\\GOOVER\\vendor\\tropaframework\\Log\\Log.php","line":55,"page":"\/","date":"2018-10-08 16:59:45","ip":"::1"}
+{"module":"application","controller":"index","action":"index","get":[],"post":[],"type":"DEBUG","message":"acesso","page":"\/","date":"2018-10-08 17:08:01","ip":"::1"}
+{"type":"ERROR","message":"retorno da fun\u00e7\u00e3o error_get_last()","file":"D:\\Programas\\Xamp\\htdocs\\GOOVER\\vendor\\tropaframework\\Log\\Log.php","line":55,"page":"\/","date":"2018-10-08 17:08:01","ip":"::1"}
+{"module":"application","controller":"index","action":"index","get":[],"post":[],"type":"DEBUG","message":"acesso","page":"\/","date":"2018-10-08 17:08:02","ip":"::1"}
+{"type":"ERROR","message":"retorno da fun\u00e7\u00e3o error_get_last()","file":"D:\\Programas\\Xamp\\htdocs\\GOOVER\\vendor\\tropaframework\\Log\\Log.php","line":55,"page":"\/","date":"2018-10-08 17:08:02","ip":"::1"}

@@ -1,0 +1,20 @@
+{"module":"application","controller":"simulacao","action":"index","get":[],"post":[],"type":"DEBUG","message":"acesso","page":"\/simulacao","date":"2018-10-23 21:23:21","ip":"::1"}
+{"type":"ERROR","message":"retorno da fun\u00e7\u00e3o error_get_last()","file":"D:\\Programas\\Xamp\\htdocs\\GOOVER\\vendor\\tropaframework\\Log\\Log.php","line":55,"page":"\/simulacao","date":"2018-10-23 21:23:21","ip":"::1"}
+{"module":"application","controller":"simulacao","action":"index","get":[],"post":[],"type":"DEBUG","message":"acesso","page":"\/simulacao","date":"2018-10-23 21:27:42","ip":"::1"}
+{"type":"ERROR","message":"retorno da fun\u00e7\u00e3o error_get_last()","file":"D:\\Programas\\Xamp\\htdocs\\GOOVER\\vendor\\tropaframework\\Log\\Log.php","line":55,"page":"\/simulacao","date":"2018-10-23 21:27:42","ip":"::1"}
+{"module":"application","controller":"fale-conosco","action":"index","get":[],"post":[],"type":"DEBUG","message":"acesso","page":"\/fale-conosco","date":"2018-10-23 21:28:26","ip":"::1"}
+{"type":"ERROR","message":"retorno da fun\u00e7\u00e3o error_get_last()","file":"D:\\Programas\\Xamp\\htdocs\\GOOVER\\vendor\\tropaframework\\Log\\Log.php","line":55,"page":"\/fale-conosco","date":"2018-10-23 21:28:26","ip":"::1"}
+{"module":"application","controller":"fale-conosco","action":"index","get":[],"post":[],"type":"DEBUG","message":"acesso","page":"\/fale-conosco","date":"2018-10-23 21:28:57","ip":"::1"}
+{"type":"ERROR","message":"retorno da fun\u00e7\u00e3o error_get_last()","file":"D:\\Programas\\Xamp\\htdocs\\GOOVER\\vendor\\tropaframework\\Log\\Log.php","line":55,"page":"\/fale-conosco","date":"2018-10-23 21:28:57","ip":"::1"}
+{"module":"application","controller":"simulacao","action":"index","get":[],"post":[],"type":"DEBUG","message":"acesso","page":"\/simulacao","date":"2018-10-23 21:29:32","ip":"::1"}
+{"type":"ERROR","message":"retorno da fun\u00e7\u00e3o error_get_last()","file":"D:\\Programas\\Xamp\\htdocs\\GOOVER\\vendor\\tropaframework\\Log\\Log.php","line":55,"page":"\/simulacao","date":"2018-10-23 21:29:32","ip":"::1"}
+{"module":"application","controller":"fale-conosco","action":"index","get":[],"post":[],"type":"DEBUG","message":"acesso","page":"\/fale-conosco","date":"2018-10-23 21:30:20","ip":"::1"}
+{"type":"ERROR","message":"retorno da fun\u00e7\u00e3o error_get_last()","file":"D:\\Programas\\Xamp\\htdocs\\GOOVER\\vendor\\tropaframework\\Log\\Log.php","line":55,"page":"\/fale-conosco","date":"2018-10-23 21:30:20","ip":"::1"}
+{"module":"application","controller":"fale-conosco","action":"index","get":[],"post":[],"type":"DEBUG","message":"acesso","page":"\/fale-conosco","date":"2018-10-23 21:30:22","ip":"::1"}
+{"type":"ERROR","message":"retorno da fun\u00e7\u00e3o error_get_last()","file":"D:\\Programas\\Xamp\\htdocs\\GOOVER\\vendor\\tropaframework\\Log\\Log.php","line":55,"page":"\/fale-conosco","date":"2018-10-23 21:30:22","ip":"::1"}
+{"module":"application","controller":"fale-conosco","action":"index","get":[],"post":[],"type":"DEBUG","message":"acesso","page":"\/fale-conosco","date":"2018-10-23 21:31:00","ip":"::1"}
+{"type":"ERROR","message":"retorno da fun\u00e7\u00e3o error_get_last()","file":"D:\\Programas\\Xamp\\htdocs\\GOOVER\\vendor\\tropaframework\\Log\\Log.php","line":55,"page":"\/fale-conosco","date":"2018-10-23 21:31:00","ip":"::1"}
+{"module":"application","controller":"fale-conosco","action":"index","get":[],"post":[],"type":"DEBUG","message":"acesso","page":"\/fale-conosco","date":"2018-10-23 21:31:23","ip":"::1"}
+{"type":"ERROR","message":"retorno da fun\u00e7\u00e3o error_get_last()","file":"D:\\Programas\\Xamp\\htdocs\\GOOVER\\vendor\\tropaframework\\Log\\Log.php","line":55,"page":"\/fale-conosco","date":"2018-10-23 21:31:23","ip":"::1"}
+{"module":"application","controller":"fale-conosco","action":"index","get":[],"post":[],"type":"DEBUG","message":"acesso","page":"\/fale-conosco","date":"2018-10-23 21:32:32","ip":"::1"}
+{"type":"ERROR","message":"retorno da fun\u00e7\u00e3o error_get_last()","file":"D:\\Programas\\Xamp\\htdocs\\GOOVER\\vendor\\tropaframework\\Log\\Log.php","line":55,"page":"\/fale-conosco","date":"2018-10-23 21:32:32","ip":"::1"}

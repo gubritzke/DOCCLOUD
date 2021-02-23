@@ -1,0 +1,48 @@
+<?php
+$q = \Tropaframework\Security\Security::antiInjection($_GET);
+unset($q['page']);
+$q = http_build_query($q);
+$q = !empty($q) ? '&' . $q : null; 
+?>
+
+<?php if( $this->pageCount>1 ): ?>
+<div class="fixed-table-pagination">
+	<div class="pull-right pagination">
+		<ul class="pagination">
+	<!-- PAGINATION -->
+    <?php foreach ($this->pagesInRange as $page): ?>
+        <?php if ($page != $this->current): ?>
+            <li class="page-number "><a href="/<?php echo $this->url; ?>?page=<?php echo $page . $q; ?>">
+				<?php echo $page; ?>
+            </a>
+            </li>
+        <?php else: ?>
+        	<li class="page-pre active">
+           		<a href="javascript:;"><?php echo $page; ?></a>
+           	</li>
+        <?php endif; ?>
+    <?php endforeach; ?>
+    
+		</ul>
+	</div>
+</div>
+<?php endif;?>
+
+<?php /*
+?>
+<div class="fixed-table-pagination">
+	<div class="pull-right pagination">
+		<ul class="pagination">
+<!-- Numbered page links -->
+		<?php foreach ($this->pagesInRange as $page): ?>
+		  <?php if ($page != $this->current): ?>
+			<li class="page-number "><a href="<?php echo strtok($_SERVER["REQUEST_URI"],'?');?><?php echo '?p='.$page . $q; ?>"><?php echo $page;?></a></li>
+			<?php else: ?>
+			<li class="page-pre active"><a href="javascript:void(0)"><?php echo $page;?></a></li>
+			<?php endif; ?>
+		<?php endforeach; ?>
+		</ul>
+	</div>
+</div>
+<div style="clear: both;"></div>
+*/ ?>
